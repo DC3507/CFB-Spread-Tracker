@@ -47,6 +47,14 @@
   .pill.move { background: #182f4d; color: #79c0ff; }
   .pill.none { color: #8b949e; }
 
+  .ktag { font-size: 12px; padding: 5px 10px; border-radius: 8px; white-space: nowrap; font-weight: 600; }
+  .ktag.on { background: #3a2e12; color: #e3b341; }
+  .ktag.crossed { background: transparent; border: 1px solid #6e40c9; color: #d2a8ff; }
+  .tagwrap { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+  .tagrow { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+  .hero .flags { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 0; }
+  .hero .keynote { font-size: 14px; color: #d7c7a0; background: #241d0c; border: 1px solid #3a2e12; border-radius: 10px; padding: 10px 12px; margin: 14px 0 0; }
+
   .controls { display: flex; gap: 10px; margin: 0 0 20px; }
   button { background: #161b22; color: #e6edf3; border: 1px solid #30363d; border-radius: 8px; padding: 8px 14px; font-size: 14px; cursor: pointer; }
   button:hover { border-color: #58a6ff; }
@@ -147,6 +155,29 @@ function story(g, s) {
   return `${nf.team} opened favored by ${of.mag} and is now favored by ${nf.mag}. The line moved ${s.mag} points toward ${s.toward}.`;
 }
 
+const KEYS = [3, 7];
+function keyInfo(s) {
+  if (s.empty) return { crossed: [], onNow: [] };
+  const om = s.openFav.mag, nm = s.nowFav.mag;
+  const onNow = [], crossed = [];
+  for (const k of KEYS) {
+    if (nm === k) onNow.push(k);
+    else if (s.mag > 0 && ((om < k) !== (nm < k))) crossed.push(k);
+  }
+  return { crossed, onNow };
+}
+function keyTags(ki) {
+  return ki.onNow.map(k => `<span class="ktag on">on ${k} now</span>`).join('') +
+         ki.crossed.map(k => `<span class="ktag crossed">crossed ${k}</span>`).join('');
+}
+function keynote(ki) {
+  if (ki.onNow.length)
+    return `Heads up: this line is sitting right on ${ki.onNow.join(' and ')}. In football, 3 and 7 are the most common margins of victory, so landing exactly on one is a pivotal spot.`;
+  if (ki.crossed.length)
+    return `Heads up: the line crossed the key number ${ki.crossed.join(' and ')} this week. Because games so often land on 3 or 7, crossing one is a bigger deal than a normal half-point move.`;
+  return '';
+}
+
 function fmtTime(ms) {
   const d = new Date(ms);
   return d.toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' }) + ' ' +
@@ -166,7 +197,7 @@ const keyNumbers = {
     if (!y) return;
     ctx.save(); ctx.setLineDash([4, 4]);
     ctx.strokeStyle = 'rgba(230,237,243,0.18)'; ctx.fillStyle = 'rgba(230,237,243,0.45)'; ctx.font = '11px system-ui';
-    for (const k of [3, 7, 10, 14, -3, -7, -10, -14]) {
+    for (const k of [3, 7, -3, -7]) {
       if (k < y.min || k > y.max) continue;
       const yp = y.getPixelForValue(k);
       ctx.beginPath(); ctx.moveTo(left, yp); ctx.lineTo(right, yp); ctx.stroke();
@@ -208,19 +239,24 @@ function drawChart(g) {
 
 function select(id) {
   const g = GAMES[id], s = SUMS[id];
+  const ki = keyInfo(s);
+  const tags = keyTags(ki);
+  const note = keynote(ki);
   const hero = document.getElementById('hero');
   hero.hidden = false;
   hero.innerHTML =
     `<div class="matchup">${g.away} @ ${g.home}${g.commence ? ' · ' + fmtKick(g.commence) : ''}</div>` +
     `<div class="fav">${favText(s.nowFav)}</div>` +
+    (tags ? `<div class="flags">${tags}</div>` : '') +
     `<p class="story">${story(g, s)}</p>` +
+    (note ? `<div class="keynote">${note}</div>` : '') +
     `<div class="tiles">` +
       `<div class="tile"><div class="k">Opened</div><div class="v">${favText(s.openFav)}</div></div>` +
       `<div class="tile"><div class="k">Now</div><div class="v">${favText(s.nowFav)}</div></div>` +
       `<div class="tile"><div class="k">Moved</div><div class="v">${s.mag === 0 ? '—' : s.mag + ' pts'}</div></div>` +
     `</div>` +
     `<div class="chart-wrap"><canvas id="chart" role="img" aria-label="Spread movement over time by sportsbook"></canvas></div>` +
-    `<p class="chart-note">Each line is one sportsbook over time. The line drops as the home team becomes a bigger favorite. Dashed lines mark key numbers 3, 7, 10, 14.</p>`;
+    `<p class="chart-note">Each line is one sportsbook over time. The line drops as the home team becomes a bigger favorite. Dashed lines mark the key numbers 3 and 7.</p>`;
   drawChart(g);
   document.querySelectorAll('.row').forEach(el => el.classList.toggle('active', el.dataset.id === id));
   window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -258,11 +294,13 @@ async function load() {
       const pill = s.mag === 0
         ? `<span class="pill none">no movement yet</span>`
         : `<span class="pill move">moved ${s.mag} pts toward ${s.toward}</span>`;
+      const tags = keyTags(keyInfo(s));
       const row = document.createElement('div');
       row.className = 'row'; row.dataset.id = g.id;
       row.innerHTML =
         `<div><div class="matchup">${g.away} @ ${g.home}${g.commence ? ' · ' + fmtKick(g.commence) : ''}</div>` +
-        `<div class="fav">${favText(s.nowFav)}</div></div>` + pill;
+        `<div class="fav">${favText(s.nowFav)}</div></div>` +
+        `<div class="tagwrap"><div class="tagrow">${pill}</div>${tags ? `<div class="tagrow">${tags}</div>` : ''}</div>`;
       row.onclick = () => select(g.id);
       list.appendChild(row);
     }
