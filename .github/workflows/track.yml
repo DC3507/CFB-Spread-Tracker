@@ -1,0 +1,52 @@
+name: Track CFB Spreads
+
+on:
+  workflow_dispatch:        # adds a manual "Run workflow" button
+  schedule:
+    # ---- THIS IS THE FREQUENCY KNOB ----
+    # Times are in UTC. South Carolina is UTC-4 during the season
+    # (UTC-5 from early November). Runs write data only when a line
+    # actually moved, but every run still costs 1 API credit.
+    #
+    # Sun-Fri: every 6 hours.  Saturday (game day): every 2 hours.
+    # That's about 36 runs/week (~155/month) -- well under the free 500.
+    - cron: "0 0,6,12,18 * * 0-5"
+    - cron: "0 */2 * * 6"
+
+permissions:
+  contents: write           # lets the job commit the new data back to the repo
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and record spreads
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python fetch_odds.py
+
+      - name: Rebuild the movement summary
+        run: python report.py
+
+      - name: Commit any changes
+        run: |
+          git config user.name "cfb-tracker-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing changed this run."
+          else
+            git commit -m "Update spreads: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
