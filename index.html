@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CFB Spread Moves</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px 16px;
+    background: #0d1117; color: #e6edf3;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    font-size: 16px; line-height: 1.6;
+  }
+  .wrap { max-width: 780px; margin: 0 auto; }
+  h1 { font-size: 24px; font-weight: 600; margin: 0 0 2px; }
+  .sub { color: #8b949e; font-size: 14px; margin: 0 0 4px; }
+  #meta { color: #8b949e; font-size: 13px; margin: 0 0 20px; }
+
+  .banner { background: #1b2231; border: 1px solid #30363d; border-radius: 12px; padding: 14px 16px; margin-bottom: 20px; color: #adbac7; font-size: 15px; }
+
+  .hero { background: #161b22; border: 2px solid #388bfd; border-radius: 14px; padding: 20px; margin-bottom: 28px; }
+  .hero .matchup { color: #8b949e; font-size: 14px; }
+  .hero .fav { font-size: 26px; font-weight: 600; margin: 2px 0 0; }
+  .hero .story { font-size: 17px; margin: 14px 0 18px; color: #e6edf3; }
+  .tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .tile { background: #0d1117; border-radius: 10px; padding: 14px; }
+  .tile .k { font-size: 13px; color: #8b949e; }
+  .tile .v { font-size: 18px; font-weight: 600; margin-top: 2px; }
+
+  .chart-wrap { position: relative; height: 320px; margin-top: 20px; }
+  .chart-note { color: #8b949e; font-size: 13px; margin-top: 10px; }
+
+  h2 { font-size: 16px; font-weight: 600; color: #adbac7; margin: 0 0 12px; }
+  .row {
+    background: #161b22; border: 1px solid #30363d; border-radius: 12px;
+    padding: 14px 16px; margin-bottom: 10px;
+    display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap;
+    cursor: pointer; transition: border-color .15s;
+  }
+  .row:hover { border-color: #58a6ff; }
+  .row.active { border-color: #388bfd; background: #1b2740; }
+  .row .matchup { color: #8b949e; font-size: 13px; }
+  .row .fav { font-size: 18px; font-weight: 600; margin-top: 2px; }
+  .pill { font-size: 13px; padding: 6px 12px; border-radius: 8px; white-space: nowrap; }
+  .pill.move { background: #182f4d; color: #79c0ff; }
+  .pill.none { color: #8b949e; }
+
+  .controls { display: flex; gap: 10px; margin: 0 0 20px; }
+  button { background: #161b22; color: #e6edf3; border: 1px solid #30363d; border-radius: 8px; padding: 8px 14px; font-size: 14px; cursor: pointer; }
+  button:hover { border-color: #58a6ff; }
+  .empty { color: #f0883e; font-size: 16px; }
+  @media (max-width: 480px) { .tiles { grid-template-columns: 1fr; } .hero .fav { font-size: 22px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>College Football — line moves</h1>
+  <p class="sub">How this week's point spreads have shifted. Biggest moves are at the top.</p>
+  <p id="meta">Loading…</p>
+
+  <div class="controls"><button id="refresh" type="button">↻ Refresh</button></div>
+
+  <div id="banner" class="banner" hidden></div>
+  <div id="hero" class="hero" hidden></div>
+
+  <h2 id="listhead" hidden>All games — biggest move first</h2>
+  <div id="list"></div>
+
+  <p id="empty" class="empty" hidden></p>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const PALETTE = ['#58a6ff','#f0883e','#3fb950','#bc8cff','#e3b341','#f778ba','#39c5cf','#db6d28'];
+const CSV_URL = 'data/snapshots.csv';
+const r05 = x => Math.round(x * 2) / 2;
+
+function parseCSV(text) {
+  const lines = text.trim().split(/\r?\n/);
+  if (lines.length < 2) return [];
+  const h = lines[0].split(',').map(s => s.trim());
+  const col = {}; h.forEach((n, i) => col[n] = i);
+  const rows = [];
+  for (let i = 1; i < lines.length; i++) {
+    if (!lines[i].trim()) continue;
+    const c = lines[i].split(',');
+    rows.push({
+      ts: c[col.timestamp_utc], game_id: c[col.game_id], commence: c[col.commence_time],
+      home: c[col.home_team], away: c[col.away_team], book: c[col.bookmaker],
+      team: c[col.team], spread: parseFloat(c[col.spread]),
+    });
+  }
+  return rows;
+}
+
+function buildGames(rows) {
+  const games = {};
+  for (const r of rows) {
+    if (!games[r.game_id]) games[r.game_id] = { id: r.game_id, home: r.home, away: r.away, commence: r.commence, books: {} };
+    if (r.team === r.home && !Number.isNaN(r.spread)) {
+      const g = games[r.game_id];
+      (g.books[r.book] = g.books[r.book] || []).push({ x: Date.parse(r.ts), y: r.spread });
+    }
+  }
+  for (const g of Object.values(games))
+    for (const b in g.books) g.books[b].sort((a, b) => a.x - b.x);
+  return games;
+}
+
+function favOf(spreadHome, home, away) {
+  const s = r05(spreadHome);
+  if (s < 0) return { team: home, mag: -s };
+  if (s > 0) return { team: away, mag: s };
+  return { team: null, mag: 0 };
+}
+
+function summarize(g) {
+  const books = Object.values(g.books).filter(s => s.length);
+  if (!books.length) return { mag: 0, empty: true };
+  const avg = arr => arr.reduce((a, b) => a + b, 0) / arr.length;
+  const openC = avg(books.map(s => s[0].y));
+  const nowC = avg(books.map(s => s[s.length - 1].y));
+  const delta = r05(nowC - openC);
+  const mag = Math.abs(delta);
+  const toward = delta < 0 ? g.home : g.away;
+  return {
+    openFav: favOf(openC, g.home, g.away),
+    nowFav: favOf(nowC, g.home, g.away),
+    delta, mag, toward,
+  };
+}
+
+function favText(f) { return f.team ? `${f.team} by ${f.mag}` : `Pick'em (even)`; }
+
+function story(g, s) {
+  const of = s.openFav, nf = s.nowFav;
+  if (s.mag === 0) {
+    if (!nf.team) return `${g.away} vs ${g.home} is a pick'em — no favorite yet, and the line hasn't moved.`;
+    return `${nf.team} is favored by ${nf.mag}. The line hasn't moved yet.`;
+  }
+  if (of.team && nf.team && of.team !== nf.team)
+    return `This one flipped: it opened with ${of.team} favored by ${of.mag}, and now ${nf.team} is favored by ${nf.mag} — a ${s.mag}-point swing toward ${s.toward}.`;
+  if (!nf.team) return `The line moved ${s.mag} points toward ${s.toward} and it's now a pick'em.`;
+  if (!of.team) return `It opened as a pick'em; the line moved ${s.mag} points toward ${s.toward}, and ${nf.team} is now favored by ${nf.mag}.`;
+  return `${nf.team} opened favored by ${of.mag} and is now favored by ${nf.mag}. The line moved ${s.mag} points toward ${s.toward}.`;
+}
+
+function fmtTime(ms) {
+  const d = new Date(ms);
+  return d.toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' }) + ' ' +
+    d.toLocaleTimeString(undefined, { hour: 'numeric' });
+}
+function fmtKick(iso) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  return d.toLocaleDateString(undefined, { weekday: 'short' }) + ' ' +
+    d.toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit' });
+}
+
+const keyNumbers = {
+  id: 'keyNumbers',
+  afterDatasetsDraw(chart) {
+    const { ctx, chartArea: { left, right }, scales: { y } } = chart;
+    if (!y) return;
+    ctx.save(); ctx.setLineDash([4, 4]);
+    ctx.strokeStyle = 'rgba(230,237,243,0.18)'; ctx.fillStyle = 'rgba(230,237,243,0.45)'; ctx.font = '11px system-ui';
+    for (const k of [3, 7, 10, 14, -3, -7, -10, -14]) {
+      if (k < y.min || k > y.max) continue;
+      const yp = y.getPixelForValue(k);
+      ctx.beginPath(); ctx.moveTo(left, yp); ctx.lineTo(right, yp); ctx.stroke();
+      ctx.fillText(String(k), left + 4, yp - 3);
+    }
+    ctx.restore();
+  }
+};
+
+let chart = null, GAMES = {}, SUMS = {};
+
+function drawChart(g) {
+  const datasets = Object.keys(g.books).sort().map((book, i) => ({
+    label: book, data: g.books[book],
+    borderColor: PALETTE[i % PALETTE.length], backgroundColor: PALETTE[i % PALETTE.length],
+    stepped: true, borderWidth: 2, pointRadius: 3, tension: 0,
+  }));
+  if (chart) chart.destroy();
+  chart = new Chart(document.getElementById('chart'), {
+    type: 'line', data: { datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'nearest', intersect: false },
+      plugins: {
+        legend: { labels: { color: '#e6edf3', usePointStyle: true } },
+        tooltip: { callbacks: {
+          title: it => it.length ? fmtTime(it[0].parsed.x) : '',
+          label: c => `${c.dataset.label}: ${c.parsed.y > 0 ? '+' : ''}${c.parsed.y}`,
+        } }
+      },
+      scales: {
+        x: { type: 'linear', ticks: { color: '#8b949e', maxTicksLimit: 7, callback: v => fmtTime(v) }, grid: { color: 'rgba(139,148,158,0.10)' } },
+        y: { ticks: { color: '#8b949e' }, grid: { color: 'rgba(139,148,158,0.10)' } }
+      }
+    },
+    plugins: [keyNumbers]
+  });
+}
+
+function select(id) {
+  const g = GAMES[id], s = SUMS[id];
+  const hero = document.getElementById('hero');
+  hero.hidden = false;
+  hero.innerHTML =
+    `<div class="matchup">${g.away} @ ${g.home}${g.commence ? ' · ' + fmtKick(g.commence) : ''}</div>` +
+    `<div class="fav">${favText(s.nowFav)}</div>` +
+    `<p class="story">${story(g, s)}</p>` +
+    `<div class="tiles">` +
+      `<div class="tile"><div class="k">Opened</div><div class="v">${favText(s.openFav)}</div></div>` +
+      `<div class="tile"><div class="k">Now</div><div class="v">${favText(s.nowFav)}</div></div>` +
+      `<div class="tile"><div class="k">Moved</div><div class="v">${s.mag === 0 ? '—' : s.mag + ' pts'}</div></div>` +
+    `</div>` +
+    `<div class="chart-wrap"><canvas id="chart" role="img" aria-label="Spread movement over time by sportsbook"></canvas></div>` +
+    `<p class="chart-note">Each line is one sportsbook over time. The line drops as the home team becomes a bigger favorite. Dashed lines mark key numbers 3, 7, 10, 14.</p>`;
+  drawChart(g);
+  document.querySelectorAll('.row').forEach(el => el.classList.toggle('active', el.dataset.id === id));
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showEmpty(msg) {
+  document.getElementById('empty').hidden = false;
+  document.getElementById('empty').textContent = msg;
+  document.getElementById('meta').textContent = '';
+}
+
+async function load() {
+  document.getElementById('empty').hidden = true;
+  try {
+    const resp = await fetch(CSV_URL + '?_=' + Date.now());
+    if (!resp.ok) throw new Error('status ' + resp.status);
+    const rows = parseCSV(await resp.text());
+    if (!rows.length) { showEmpty('No data recorded yet — check back after the tracker has run a couple of times.'); return; }
+
+    GAMES = buildGames(rows); SUMS = {};
+    for (const id in GAMES) SUMS[id] = summarize(GAMES[id]);
+
+    const games = Object.values(GAMES).sort((a, b) =>
+      (SUMS[b.id].mag - SUMS[a.id].mag) || (Date.parse(a.commence) - Date.parse(b.commence)));
+
+    const anyMove = games.some(g => SUMS[g.id].mag > 0);
+    const banner = document.getElementById('banner');
+    banner.hidden = anyMove;
+    if (!anyMove) banner.textContent = 'Lines haven\u2019t moved yet. Once the books adjust over the next day or two, the biggest moves will rise to the top here.';
+
+    const list = document.getElementById('list');
+    list.innerHTML = '';
+    for (const g of games) {
+      const s = SUMS[g.id];
+      const pill = s.mag === 0
+        ? `<span class="pill none">no movement yet</span>`
+        : `<span class="pill move">moved ${s.mag} pts toward ${s.toward}</span>`;
+      const row = document.createElement('div');
+      row.className = 'row'; row.dataset.id = g.id;
+      row.innerHTML =
+        `<div><div class="matchup">${g.away} @ ${g.home}${g.commence ? ' · ' + fmtKick(g.commence) : ''}</div>` +
+        `<div class="fav">${favText(s.nowFav)}</div></div>` + pill;
+      row.onclick = () => select(g.id);
+      list.appendChild(row);
+    }
+    document.getElementById('listhead').hidden = false;
+
+    const times = rows.map(r => Date.parse(r.ts)).filter(n => !Number.isNaN(n));
+    document.getElementById('meta').textContent =
+      `${games.length} games · ${rows.length} recorded line changes · updated ${times.length ? fmtTime(Math.max(...times)) : 'unknown'}`;
+
+    select(games[0].id);
+  } catch (err) {
+    showEmpty('Could not load data (' + err.message + '). If you just enabled the page, give it a minute and hit Refresh.');
+  }
+}
+
+document.getElementById('refresh').onclick = load;
+load();
+</script>
+</body>
+</html>
