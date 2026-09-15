@@ -215,6 +215,23 @@ function drawChart(g) {
     borderColor: PALETTE[i % PALETTE.length], backgroundColor: PALETTE[i % PALETTE.length],
     stepped: true, borderWidth: 2, pointRadius: 3, tension: 0,
   }));
+  const allX = datasets.flatMap(d => d.data.map(p => p.x));
+  const minX = Math.min(...allX), maxX = Math.max(...allX);
+  const single = !(maxX > minX);   // every point shares one timestamp (baseline only)
+
+  const xScale = single
+    ? {
+        type: 'linear', min: minX - 3600000, max: maxX + 3600000,
+        ticks: { color: '#8b949e', callback: v => fmtTime(v) },
+        afterBuildTicks: axis => { axis.ticks = [{ value: minX }]; },
+        grid: { color: 'rgba(139,148,158,0.10)' }
+      }
+    : {
+        type: 'linear', min: minX, max: maxX,
+        ticks: { color: '#8b949e', maxTicksLimit: 7, callback: v => fmtTime(v) },
+        grid: { color: 'rgba(139,148,158,0.10)' }
+      };
+
   if (chart) chart.destroy();
   chart = new Chart(document.getElementById('chart'), {
     type: 'line', data: { datasets },
@@ -229,8 +246,8 @@ function drawChart(g) {
         } }
       },
       scales: {
-        x: { type: 'linear', ticks: { color: '#8b949e', maxTicksLimit: 7, callback: v => fmtTime(v) }, grid: { color: 'rgba(139,148,158,0.10)' } },
-        y: { ticks: { color: '#8b949e' }, grid: { color: 'rgba(139,148,158,0.10)' } }
+        x: xScale,
+        y: { grace: '20%', ticks: { color: '#8b949e' }, grid: { color: 'rgba(139,148,158,0.10)' } }
       }
     },
     plugins: [keyNumbers]
