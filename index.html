@@ -325,7 +325,7 @@ async function load() {
 
     const times = rows.map(r => Date.parse(r.ts)).filter(n => !Number.isNaN(n));
     document.getElementById('meta').textContent =
-      `${games.length} games · ${rows.length} recorded line changes · updated ${times.length ? fmtTime(Math.max(...times)) : 'unknown'}`;
+      `${games.length} games · ${rows.length} recorded line changes · updated ${times.length ? fmtTime(Math.max(...times)) : 'unknown'} · build v2`;
 
     select(games[0].id);
   } catch (err) {
