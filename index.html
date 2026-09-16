@@ -285,6 +285,14 @@ function showEmpty(msg) {
   document.getElementById('meta').textContent = '';
 }
 
+function weekWindow(now = new Date()) {
+  const d = new Date(now);
+  let daysToTue = (2 - d.getUTCDay() + 7) % 7;   // JS: Sun=0 .. Sat=6; Tuesday=2
+  if (daysToTue === 0) daysToTue = 7;
+  const end = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate() + daysToTue, 9, 0, 0);
+  return { start: end - 7 * 86400000, end };
+}
+
 async function load() {
   document.getElementById('empty').hidden = true;
   try {
@@ -293,7 +301,20 @@ async function load() {
     const rows = parseCSV(await resp.text());
     if (!rows.length) { showEmpty('No data recorded yet — check back after the tracker has run a couple of times.'); return; }
 
-    GAMES = buildGames(rows); SUMS = {};
+    GAMES = buildGames(rows);
+
+    // Keep only games in the current CFB week (Tue -> Tue).
+    const { start, end } = weekWindow();
+    for (const id of Object.keys(GAMES)) {
+      const t = Date.parse(GAMES[id].commence);
+      if (!Number.isNaN(t) && (t < start || t >= end)) delete GAMES[id];
+    }
+    if (!Object.keys(GAMES).length) {
+      showEmpty('No games for the current week are loaded yet. This week\u2019s lines usually post a few days out — check back soon.');
+      return;
+    }
+
+    SUMS = {};
     for (const id in GAMES) SUMS[id] = summarize(GAMES[id]);
 
     const games = Object.values(GAMES).sort((a, b) =>
@@ -325,7 +346,7 @@ async function load() {
 
     const times = rows.map(r => Date.parse(r.ts)).filter(n => !Number.isNaN(n));
     document.getElementById('meta').textContent =
-      `${games.length} games · ${rows.length} recorded line changes · updated ${times.length ? fmtTime(Math.max(...times)) : 'unknown'} · build v2`;
+      `${games.length} games this week · updated ${times.length ? fmtTime(Math.max(...times)) : 'unknown'} · build v3`;
 
     select(games[0].id);
   } catch (err) {

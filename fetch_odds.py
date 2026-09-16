@@ -14,7 +14,7 @@ exactly 1 credit on The Odds API's free plan.
 import csv
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import requests
@@ -39,9 +39,23 @@ FIELDS = [
 ]
 
 
+def current_week_end(now):
+    """Return the upcoming Tuesday 09:00 UTC -- the end of the current CFB week.
+    A CFB week runs Tue->Tue, so 'this week' is everything kicking off before
+    the next Tuesday. If today IS Tuesday, we're in a fresh week, so use the
+    Tuesday seven days out."""
+    days_to_tue = (1 - now.weekday()) % 7   # Mon=0 .. Sun=6; Tuesday=1
+    if days_to_tue == 0:
+        days_to_tue = 7
+    return (now + timedelta(days=days_to_tue)).replace(hour=9, minute=0, second=0, microsecond=0)
+
+
 def fetch():
     if not API_KEY:
         sys.exit("ERROR: ODDS_API_KEY is not set. Add it as a GitHub secret.")
+
+    now = datetime.now(timezone.utc)
+    end = current_week_end(now)
 
     url = f"https://api.the-odds-api.com/v4/sports/{SPORT}/odds"
     params = {
@@ -49,6 +63,9 @@ def fetch():
         "regions": REGION,
         "markets": MARKET,
         "oddsFormat": ODDS_FORMAT,
+        # Only this week's games: from now through the coming Tuesday.
+        "commenceTimeFrom": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "commenceTimeTo": end.strftime("%Y-%m-%dT%H:%M:%SZ"),
     }
     resp = requests.get(url, params=params, timeout=30)
 
