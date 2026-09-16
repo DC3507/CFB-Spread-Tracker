@@ -210,8 +210,12 @@ const keyNumbers = {
 let chart = null, GAMES = {}, SUMS = {};
 
 function drawChart(g) {
+  const s = SUMS[g.id];
+  const refTeam = (s && s.nowFav && s.nowFav.team) ? s.nowFav.team : g.home;
+  const flip = refTeam === g.away;   // stored values are home spreads; away = -home
   const datasets = Object.keys(g.books).sort().map((book, i) => ({
-    label: book, data: g.books[book],
+    label: book,
+    data: g.books[book].map(p => ({ x: p.x, y: flip ? -p.y : p.y })),
     borderColor: PALETTE[i % PALETTE.length], backgroundColor: PALETTE[i % PALETTE.length],
     stepped: true, borderWidth: 2, pointRadius: 3, tension: 0,
   }));
@@ -242,7 +246,7 @@ function drawChart(g) {
         legend: { labels: { color: '#e6edf3', usePointStyle: true } },
         tooltip: { callbacks: {
           title: it => it.length ? fmtTime(it[0].parsed.x) : '',
-          label: c => `${c.dataset.label}: ${c.parsed.y > 0 ? '+' : ''}${c.parsed.y}`,
+          label: c => `${c.dataset.label}: ${refTeam} ${c.parsed.y > 0 ? '+' : ''}${c.parsed.y}`,
         } }
       },
       scales: {
@@ -261,6 +265,7 @@ function select(id) {
   const note = keynote(ki);
   const hero = document.getElementById('hero');
   hero.hidden = false;
+  const refTeam = s.nowFav.team || g.home;
   hero.innerHTML =
     `<div class="matchup">${g.away} @ ${g.home}${g.commence ? ' · ' + fmtKick(g.commence) : ''}</div>` +
     `<div class="fav">${favText(s.nowFav)}</div>` +
@@ -273,7 +278,7 @@ function select(id) {
       `<div class="tile"><div class="k">Moved</div><div class="v">${s.mag === 0 ? '—' : s.mag + ' pts'}</div></div>` +
     `</div>` +
     `<div class="chart-wrap"><canvas id="chart" role="img" aria-label="Spread movement over time by sportsbook"></canvas></div>` +
-    `<p class="chart-note">Each line is one sportsbook over time. The line drops as the home team becomes a bigger favorite. Dashed lines mark the key numbers 3 and 7.</p>`;
+    `<p class="chart-note">Each line is one sportsbook's spread for ${refTeam} over time — just like a sportsbook shows it, so a lower (more negative) number means ${refTeam} is favored by more. A value of 0 is a pick'em; if the line crossed 0, the other team was the favorite at that point. Dashed lines mark the key numbers 3 and 7.</p>`;
   drawChart(g);
   document.querySelectorAll('.row').forEach(el => el.classList.toggle('active', el.dataset.id === id));
   window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -346,7 +351,7 @@ async function load() {
 
     const times = rows.map(r => Date.parse(r.ts)).filter(n => !Number.isNaN(n));
     document.getElementById('meta').textContent =
-      `${games.length} games this week · updated ${times.length ? fmtTime(Math.max(...times)) : 'unknown'} · build v3`;
+      `${games.length} games this week · updated ${times.length ? fmtTime(Math.max(...times)) : 'unknown'} · build v4`;
 
     select(games[0].id);
   } catch (err) {
