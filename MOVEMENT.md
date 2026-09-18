@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-18 10:33 UTC_  
-_4033 line snapshots recorded so far._
+_Last updated: 2026-09-18 15:49 UTC_  
+_4301 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -29,11 +29,11 @@ _4033 line snapshots recorded so far._
 | 2.5 | USC Trojans @ Rutgers Scarlet Knights | betrivers | Rutgers Scarlet Knights | +24.5 | +22.0 |
 | 2.5 | USC Trojans @ Rutgers Scarlet Knights | betonlineag | USC Trojans | -24.0 | -21.5 |
 | 2.5 | USC Trojans @ Rutgers Scarlet Knights | betonlineag | Rutgers Scarlet Knights | +24.0 | +21.5 |
+| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betmgm | USC Trojans | -24.0 | -21.5 |
+| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betmgm | Rutgers Scarlet Knights | +24.0 | +21.5 |
 | 2.0 | Western Michigan Broncos @ Rice Owls | betrivers | Western Michigan Broncos | -10.0 | -8.0 |
 | 2.0 | Western Michigan Broncos @ Rice Owls | betrivers | Rice Owls | +10.0 | +8.0 |
+| 2.0 | USC Trojans @ Rutgers Scarlet Knights | fanduel | USC Trojans | -23.5 | -21.5 |
+| 2.0 | USC Trojans @ Rutgers Scarlet Knights | fanduel | Rutgers Scarlet Knights | +23.5 | +21.5 |
 | 2.0 | USC Trojans @ Rutgers Scarlet Knights | draftkings | USC Trojans | -23.5 | -21.5 |
 | 2.0 | USC Trojans @ Rutgers Scarlet Knights | draftkings | Rutgers Scarlet Knights | +23.5 | +21.5 |
-| 2.0 | USC Trojans @ Rutgers Scarlet Knights | betmgm | USC Trojans | -24.0 | -22.0 |
-| 2.0 | USC Trojans @ Rutgers Scarlet Knights | betmgm | Rutgers Scarlet Knights | +24.0 | +22.0 |
-| 2.0 | Louisiana Tech Bulldogs @ Baylor Bears | fanduel | Louisiana Tech Bulldogs | +18.5 | +20.5 |
-| 2.0 | Louisiana Tech Bulldogs @ Baylor Bears | fanduel | Baylor Bears | -18.5 | -20.5 |
