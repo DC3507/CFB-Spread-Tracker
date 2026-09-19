@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-18 20:23 UTC_  
-_4537 line snapshots recorded so far._
+_Last updated: 2026-09-19 03:57 UTC_  
+_4855 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -35,5 +35,5 @@ _4537 line snapshots recorded so far._
 | 2.0 | USC Trojans @ Rutgers Scarlet Knights | fanduel | Rutgers Scarlet Knights | +23.5 | +21.5 |
 | 2.0 | USC Trojans @ Rutgers Scarlet Knights | draftkings | USC Trojans | -23.5 | -21.5 |
 | 2.0 | USC Trojans @ Rutgers Scarlet Knights | draftkings | Rutgers Scarlet Knights | +23.5 | +21.5 |
-| 2.0 | Portland State Vikings @ Oregon Ducks | lowvig | Portland State Vikings | +56.5 | +58.5 |
-| 2.0 | Portland State Vikings @ Oregon Ducks | lowvig | Oregon Ducks | -56.5 | -58.5 |
+| 2.0 | Stonehill Skyhawks @ UMass Minutemen | fanduel | UMass Minutemen | -33.5 | -31.5 |
+| 2.0 | Stonehill Skyhawks @ UMass Minutemen | fanduel | Stonehill Skyhawks | +33.5 | +31.5 |
