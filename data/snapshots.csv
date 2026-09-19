@@ -6049,3 +6049,113 @@ timestamp_utc,game_id,commence_time,home_team,away_team,bookmaker,team,spread,pr
 2026-09-19T20:18:52Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,betus,UCLA Bruins,-13.5,-115
 2026-09-19T20:18:52Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,bovada,Purdue Boilermakers,13.5,-105
 2026-09-19T20:18:52Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,bovada,UCLA Bruins,-13.5,-115
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,draftkings,Appalachian State Mountaineers,-16.5,-108
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,draftkings,Charlotte 49ers,16.5,-112
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,betmgm,Appalachian State Mountaineers,-16.0,-110
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,betmgm,Charlotte 49ers,16.0,-108
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,lowvig,Appalachian State Mountaineers,-15.5,-106
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,lowvig,Charlotte 49ers,15.5,-106
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,betonlineag,Appalachian State Mountaineers,-15.5,-110
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,betonlineag,Charlotte 49ers,15.5,-110
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,fanduel,Appalachian State Mountaineers,-16.5,-118
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,fanduel,Charlotte 49ers,16.5,-114
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,betus,Appalachian State Mountaineers,-15.5,-110
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,betus,Charlotte 49ers,15.5,-110
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,bovada,Appalachian State Mountaineers,-16.0,-110
+2026-09-19T23:58:06Z,3db3de2fb9101f01f676c1f319837667,2026-09-20T00:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,bovada,Charlotte 49ers,16.0,-110
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,lowvig,Arkansas State Red Wolves,18.5,-106
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,lowvig,TCU Horned Frogs,-18.5,-106
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betonlineag,Arkansas State Red Wolves,18.5,-110
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betonlineag,TCU Horned Frogs,-18.5,-110
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betmgm,Arkansas State Red Wolves,19.0,-110
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betmgm,TCU Horned Frogs,-19.0,-108
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betrivers,Arkansas State Red Wolves,19.0,-109
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betrivers,TCU Horned Frogs,-19.0,-113
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betus,Arkansas State Red Wolves,18.5,-110
+2026-09-19T23:58:06Z,a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,betus,TCU Horned Frogs,-18.5,-110
+2026-09-19T23:58:06Z,0fff6569a000494c8821a53d886df670,2026-09-20T00:00:00Z,Tulsa Golden Hurricane,East Texas A&M Lions,draftkings,East Texas A&M Lions,41.5,-118
+2026-09-19T23:58:06Z,0fff6569a000494c8821a53d886df670,2026-09-20T00:00:00Z,Tulsa Golden Hurricane,East Texas A&M Lions,draftkings,Tulsa Golden Hurricane,-41.5,-102
+2026-09-19T23:58:06Z,0fff6569a000494c8821a53d886df670,2026-09-20T00:00:00Z,Tulsa Golden Hurricane,East Texas A&M Lions,bovada,East Texas A&M Lions,41.0,-110
+2026-09-19T23:58:06Z,0fff6569a000494c8821a53d886df670,2026-09-20T00:00:00Z,Tulsa Golden Hurricane,East Texas A&M Lions,bovada,Tulsa Golden Hurricane,-41.0,-110
+2026-09-19T23:58:06Z,6059b05ef23d08d9033bd7b5fe38e5d0,2026-09-20T00:00:00Z,Texas Longhorns,UTSA Roadrunners,betmgm,Texas Longhorns,-30.0,-108
+2026-09-19T23:58:06Z,6059b05ef23d08d9033bd7b5fe38e5d0,2026-09-20T00:00:00Z,Texas Longhorns,UTSA Roadrunners,betmgm,UTSA Roadrunners,30.0,-110
+2026-09-19T23:58:06Z,6059b05ef23d08d9033bd7b5fe38e5d0,2026-09-20T00:00:00Z,Texas Longhorns,UTSA Roadrunners,bovada,Texas Longhorns,-30.0,-105
+2026-09-19T23:58:06Z,6059b05ef23d08d9033bd7b5fe38e5d0,2026-09-20T00:00:00Z,Texas Longhorns,UTSA Roadrunners,bovada,UTSA Roadrunners,30.0,-115
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,lowvig,Louisiana Ragin Cajuns,-7.0,-106
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,lowvig,UAB Blazers,7.0,-106
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,betonlineag,Louisiana Ragin Cajuns,-7.0,-110
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,betonlineag,UAB Blazers,7.0,-110
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,betmgm,Louisiana Ragin Cajuns,-7.0,-108
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,betrivers,Louisiana Ragin Cajuns,-6.5,-121
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,betrivers,UAB Blazers,6.5,-104
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,betus,Louisiana Ragin Cajuns,-7.0,-105
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,betus,UAB Blazers,7.0,-115
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,bovada,Louisiana Ragin Cajuns,-7.0,-105
+2026-09-19T23:58:06Z,828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:05:00Z,Louisiana Ragin Cajuns,UAB Blazers,bovada,UAB Blazers,7.0,-115
+2026-09-19T23:58:06Z,d3b7a8be0f6c9e50f7afd4005990228b,2026-09-20T00:15:00Z,Colorado State Rams,BYU Cougars,fanduel,BYU Cougars,-17.5,-110
+2026-09-19T23:58:06Z,d3b7a8be0f6c9e50f7afd4005990228b,2026-09-20T00:15:00Z,Colorado State Rams,BYU Cougars,fanduel,Colorado State Rams,17.5,-110
+2026-09-19T23:58:06Z,d3b7a8be0f6c9e50f7afd4005990228b,2026-09-20T00:15:00Z,Colorado State Rams,BYU Cougars,draftkings,BYU Cougars,-17.5,-108
+2026-09-19T23:58:06Z,d3b7a8be0f6c9e50f7afd4005990228b,2026-09-20T00:15:00Z,Colorado State Rams,BYU Cougars,draftkings,Colorado State Rams,17.5,-112
+2026-09-19T23:58:06Z,d3b7a8be0f6c9e50f7afd4005990228b,2026-09-20T00:15:00Z,Colorado State Rams,BYU Cougars,mybookieag,BYU Cougars,-17.5,-118
+2026-09-19T23:58:06Z,d3b7a8be0f6c9e50f7afd4005990228b,2026-09-20T00:15:00Z,Colorado State Rams,BYU Cougars,mybookieag,Colorado State Rams,17.5,-105
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,betrivers,Boise State Broncos,-28.0,-114
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,betrivers,South Dakota Coyotes,28.0,-109
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,draftkings,Boise State Broncos,-28.5,100
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,draftkings,South Dakota Coyotes,28.5,-120
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,betonlineag,Boise State Broncos,-27.5,-115
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,betonlineag,South Dakota Coyotes,27.5,-105
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,betmgm,Boise State Broncos,-28.0,-105
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,betmgm,South Dakota Coyotes,28.0,-112
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,bovada,Boise State Broncos,-28.0,-110
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,bovada,South Dakota Coyotes,28.0,-110
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,lowvig,Boise State Broncos,-27.5,-115
+2026-09-19T23:58:06Z,6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,lowvig,South Dakota Coyotes,27.5,-105
+2026-09-19T23:58:06Z,0cdf27f150204b8512bca1e2d7cce051,2026-09-20T02:00:00Z,San Diego State Aztecs,James Madison Dukes,betmgm,James Madison Dukes,2.0,-110
+2026-09-19T23:58:06Z,0cdf27f150204b8512bca1e2d7cce051,2026-09-20T02:00:00Z,San Diego State Aztecs,James Madison Dukes,betmgm,San Diego State Aztecs,-2.0,-110
+2026-09-19T23:58:06Z,0cdf27f150204b8512bca1e2d7cce051,2026-09-20T02:00:00Z,San Diego State Aztecs,James Madison Dukes,betus,James Madison Dukes,1.5,-110
+2026-09-19T23:58:06Z,0cdf27f150204b8512bca1e2d7cce051,2026-09-20T02:00:00Z,San Diego State Aztecs,James Madison Dukes,betus,San Diego State Aztecs,-1.5,-110
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,draftkings,Arizona Wildcats,-34.5,-105
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,draftkings,Northern Illinois Huskies,34.5,-115
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,lowvig,Arizona Wildcats,-34.0,-101
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,lowvig,Northern Illinois Huskies,34.0,-111
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,betonlineag,Arizona Wildcats,-34.0,-105
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,betonlineag,Northern Illinois Huskies,34.0,-115
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,betmgm,Arizona Wildcats,-34.0,-110
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,betmgm,Northern Illinois Huskies,34.0,-110
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,betrivers,Arizona Wildcats,-33.5,-115
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,betrivers,Northern Illinois Huskies,33.5,-108
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,bovada,Arizona Wildcats,-34.0,-105
+2026-09-19T23:58:06Z,93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,bovada,Northern Illinois Huskies,34.0,-115
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,lowvig,North Dakota State Bison,-25.0,-116
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,lowvig,Sacramento State Hornets,25.0,104
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,betonlineag,North Dakota State Bison,-25.0,-116
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,betonlineag,Sacramento State Hornets,25.0,-104
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,betmgm,North Dakota State Bison,-26.0,-110
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,betmgm,Sacramento State Hornets,26.0,-110
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,mybookieag,North Dakota State Bison,-25.5,-110
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,mybookieag,Sacramento State Hornets,25.5,-110
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,betus,North Dakota State Bison,-25.0,-115
+2026-09-19T23:58:06Z,0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,betus,Sacramento State Hornets,25.0,-105
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,draftkings,Fresno State Bulldogs,-4.5,-108
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,draftkings,San Jose State Spartans,4.5,-112
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,lowvig,Fresno State Bulldogs,-4.0,-111
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,lowvig,San Jose State Spartans,4.0,-101
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betonlineag,Fresno State Bulldogs,-4.0,-115
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betonlineag,San Jose State Spartans,4.0,-105
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betmgm,Fresno State Bulldogs,-4.5,-108
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betmgm,San Jose State Spartans,4.5,-110
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,mybookieag,Fresno State Bulldogs,-4.5,-110
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,mybookieag,San Jose State Spartans,4.5,-110
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betrivers,Fresno State Bulldogs,-4.5,-114
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betrivers,San Jose State Spartans,4.5,-109
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betus,Fresno State Bulldogs,-4.0,-115
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,betus,San Jose State Spartans,4.0,-105
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,bovada,Fresno State Bulldogs,-4.5,-110
+2026-09-19T23:58:06Z,f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,bovada,San Jose State Spartans,4.5,-110
+2026-09-19T23:58:06Z,381e5c97af94a83e03eae0ac6f11ed38,2026-09-20T03:00:00Z,Oregon State Beavers,Montana Grizzlies,bovada,Montana Grizzlies,17.5,-110
+2026-09-19T23:58:06Z,381e5c97af94a83e03eae0ac6f11ed38,2026-09-20T03:00:00Z,Oregon State Beavers,Montana Grizzlies,bovada,Oregon State Beavers,-17.5,-110
+2026-09-19T23:58:06Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,lowvig,Purdue Boilermakers,13.5,100
+2026-09-19T23:58:06Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,lowvig,UCLA Bruins,-13.5,-112
+2026-09-19T23:58:06Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,betonlineag,Purdue Boilermakers,13.5,-104
+2026-09-19T23:58:06Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,betonlineag,UCLA Bruins,-13.5,-116
+2026-09-19T23:58:06Z,7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,betmgm,Purdue Boilermakers,14.0,-110
