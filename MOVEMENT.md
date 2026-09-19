@@ -1,39 +1,39 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-19 13:47 UTC_  
-_5419 line snapshots recorded so far._
+_Last updated: 2026-09-19 17:05 UTC_  
+_5884 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
 | Move | Matchup | Book | Team | Open | Now |
 |-----:|---------|------|------|-----:|----:|
+| 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
+| 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -35.5 |
+| 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +28.5 |
+| 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
+| 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Southern Illinois Salukis | +39.5 | +35.5 |
+| 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Illinois Fighting Illini | -39.5 | -35.5 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | lowvig | South Dakota Coyotes | +24.0 | +28.0 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | lowvig | Boise State Broncos | -24.0 | -28.0 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | fanduel | South Dakota Coyotes | +24.5 | +28.5 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | fanduel | Boise State Broncos | -24.5 | -28.5 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | betrivers | South Dakota Coyotes | +24.5 | +28.5 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | betrivers | Boise State Broncos | -24.5 | -28.5 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | betonlineag | South Dakota Coyotes | +24.0 | +28.0 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | betonlineag | Boise State Broncos | -24.0 | -28.0 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | South Dakota Coyotes | +24.0 | +28.0 |
+| 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | Boise State Broncos | -24.0 | -28.0 |
 | 4.0 | Oregon Ducks @ USC Trojans | fanduel | USC Trojans | +2.5 | -1.5 |
 | 4.0 | Oregon Ducks @ USC Trojans | fanduel | Oregon Ducks | -2.5 | +1.5 |
-| 3.0 | Wyoming Cowboys @ Central Michigan Chippewas | fanduel | Wyoming Cowboys | +1.5 | -1.5 |
-| 3.0 | Wyoming Cowboys @ Central Michigan Chippewas | fanduel | Central Michigan Chippewas | -1.5 | +1.5 |
-| 3.0 | Wyoming Cowboys @ Central Michigan Chippewas | draftkings | Wyoming Cowboys | +1.5 | -1.5 |
-| 3.0 | Wyoming Cowboys @ Central Michigan Chippewas | draftkings | Central Michigan Chippewas | -1.5 | +1.5 |
-| 3.0 | USC Trojans @ Rutgers Scarlet Knights | betrivers | USC Trojans | -24.5 | -21.5 |
-| 3.0 | USC Trojans @ Rutgers Scarlet Knights | betrivers | Rutgers Scarlet Knights | +24.5 | +21.5 |
-| 3.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +38.5 |
-| 3.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -38.5 |
-| 3.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +26.5 |
-| 3.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -26.5 |
-| 3.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | North Dakota Fighting Hawks | +24.0 | +27.0 |
-| 3.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | Nebraska Cornhuskers | -24.0 | -27.0 |
-| 2.5 | Wyoming Cowboys @ Central Michigan Chippewas | bovada | Wyoming Cowboys | +1.5 | -1.0 |
-| 2.5 | Wyoming Cowboys @ Central Michigan Chippewas | bovada | Central Michigan Chippewas | -1.5 | +1.0 |
-| 2.5 | Wyoming Cowboys @ Central Michigan Chippewas | betmgm | Wyoming Cowboys | +1.5 | -1.0 |
-| 2.5 | Wyoming Cowboys @ Central Michigan Chippewas | betmgm | Central Michigan Chippewas | -1.5 | +1.0 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | lowvig | USC Trojans | -24.0 | -21.5 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | lowvig | Rutgers Scarlet Knights | +24.0 | +21.5 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | USC Trojans | -24.5 | -22.0 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | Rutgers Scarlet Knights | +24.5 | +22.0 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betus | USC Trojans | -24.0 | -21.5 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betus | Rutgers Scarlet Knights | +24.0 | +21.5 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betonlineag | USC Trojans | -24.0 | -21.5 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betonlineag | Rutgers Scarlet Knights | +24.0 | +21.5 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betmgm | USC Trojans | -24.0 | -21.5 |
-| 2.5 | USC Trojans @ Rutgers Scarlet Knights | betmgm | Rutgers Scarlet Knights | +24.0 | +21.5 |
-| 2.5 | Stonehill Skyhawks @ UMass Minutemen | lowvig | UMass Minutemen | -33.5 | -31.0 |
-| 2.5 | Stonehill Skyhawks @ UMass Minutemen | lowvig | Stonehill Skyhawks | +33.5 | +31.0 |
+| 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | lowvig | North Dakota Fighting Hawks | +24.0 | +28.0 |
+| 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | lowvig | Nebraska Cornhuskers | -24.0 | -28.0 |
+| 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | North Dakota Fighting Hawks | +24.0 | +28.0 |
+| 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | Nebraska Cornhuskers | -24.0 | -28.0 |
+| 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | betonlineag | North Dakota Fighting Hawks | +24.0 | +28.0 |
+| 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | betonlineag | Nebraska Cornhuskers | -24.0 | -28.0 |
+| 3.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | USC Trojans | -24.5 | -21.0 |
+| 3.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | Rutgers Scarlet Knights | +24.5 | +21.0 |
+| 3.5 | Southern Illinois Salukis @ Illinois Fighting Illini | lowvig | Southern Illinois Salukis | +38.5 | +35.0 |
+| 3.5 | Southern Illinois Salukis @ Illinois Fighting Illini | lowvig | Illinois Fighting Illini | -38.5 | -35.0 |
+| 3.5 | Southern Illinois Salukis @ Illinois Fighting Illini | bovada | Southern Illinois Salukis | +38.5 | +35.0 |
+| 3.5 | Southern Illinois Salukis @ Illinois Fighting Illini | bovada | Illinois Fighting Illini | -38.5 | -35.0 |
