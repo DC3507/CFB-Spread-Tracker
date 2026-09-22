@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-21 18:10 UTC_  
-_6160 line snapshots recorded so far._
+_Last updated: 2026-09-22 03:17 UTC_  
+_7192 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -15,8 +15,6 @@ _6160 line snapshots recorded so far._
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Illinois Fighting Illini | -39.5 | -35.5 |
 | 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | South Dakota Coyotes | +24.0 | +28.0 |
 | 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | Boise State Broncos | -24.0 | -28.0 |
-| 4.0 | Oregon Ducks @ USC Trojans | fanduel | USC Trojans | +2.5 | -1.5 |
-| 4.0 | Oregon Ducks @ USC Trojans | fanduel | Oregon Ducks | -2.5 | +1.5 |
 | 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | North Dakota Fighting Hawks | +24.0 | +28.0 |
 | 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | Nebraska Cornhuskers | -24.0 | -28.0 |
 | 3.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | USC Trojans | -24.5 | -21.0 |
@@ -37,3 +35,5 @@ _6160 line snapshots recorded so far._
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | betrivers | Boise State Broncos | -24.5 | -28.0 |
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | betonlineag | South Dakota Coyotes | +24.0 | +27.5 |
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | betonlineag | Boise State Broncos | -24.0 | -27.5 |
+| 3.5 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | lowvig | North Dakota Fighting Hawks | +24.0 | +27.5 |
+| 3.5 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | lowvig | Nebraska Cornhuskers | -24.0 | -27.5 |
