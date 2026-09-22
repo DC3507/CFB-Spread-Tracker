@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-22 16:16 UTC_  
-_7609 line snapshots recorded so far._
+_Last updated: 2026-09-22 20:52 UTC_  
+_7777 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -9,6 +9,8 @@ _7609 line snapshots recorded so far._
 |-----:|---------|------|------|-----:|----:|
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -35.5 |
+| 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Stonehill Skyhawks | +37.5 | +32.5 |
+| 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Ohio Bobcats | -37.5 | -32.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +28.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Southern Illinois Salukis | +39.5 | +35.5 |
@@ -35,5 +37,3 @@ _7609 line snapshots recorded so far._
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | betrivers | Boise State Broncos | -24.5 | -28.0 |
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | betonlineag | South Dakota Coyotes | +24.0 | +27.5 |
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | betonlineag | Boise State Broncos | -24.0 | -27.5 |
-| 3.5 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | lowvig | North Dakota Fighting Hawks | +24.0 | +27.5 |
-| 3.5 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | lowvig | Nebraska Cornhuskers | -24.0 | -27.5 |
