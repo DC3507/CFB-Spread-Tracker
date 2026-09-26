@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-26 11:05 UTC_  
-_11101 line snapshots recorded so far._
+_Last updated: 2026-09-26 16:06 UTC_  
+_11692 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -9,22 +9,22 @@ _11101 line snapshots recorded so far._
 |-----:|---------|------|------|-----:|----:|
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -35.5 |
+| 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | North Carolina Central Eagles | +31.5 | +37.5 |
+| 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | East Carolina Pirates | -31.5 | -37.5 |
 | 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Stonehill Skyhawks | +37.5 | +32.5 |
 | 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Ohio Bobcats | -37.5 | -32.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +28.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Pittsburgh Panthers | -49.5 | -54.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Bucknell Bison | +49.5 | +54.5 |
-| 4.5 | Mercyhurst Lakers @ Western Kentucky Hilltoppers | betrivers | Western Kentucky Hilltoppers | -38.0 | -42.5 |
-| 4.5 | Mercyhurst Lakers @ Western Kentucky Hilltoppers | betrivers | Mercyhurst Lakers | +38.0 | +42.5 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Southern Illinois Salukis | +39.5 | +35.5 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Illinois Fighting Illini | -39.5 | -35.5 |
 | 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | South Dakota Coyotes | +24.0 | +28.0 |
 | 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | Boise State Broncos | -24.0 | -28.0 |
 | 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | North Dakota Fighting Hawks | +24.0 | +28.0 |
 | 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | Nebraska Cornhuskers | -24.0 | -28.0 |
-| 4.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | North Carolina Central Eagles | +31.5 | +35.5 |
-| 4.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | East Carolina Pirates | -31.5 | -35.5 |
+| 4.0 | Mercyhurst Lakers @ Western Kentucky Hilltoppers | betrivers | Western Kentucky Hilltoppers | -38.0 | -42.0 |
+| 4.0 | Mercyhurst Lakers @ Western Kentucky Hilltoppers | betrivers | Mercyhurst Lakers | +38.0 | +42.0 |
 | 3.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | USC Trojans | -24.5 | -21.0 |
 | 3.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | Rutgers Scarlet Knights | +24.5 | +21.0 |
 | 3.5 | Southern Illinois Salukis @ Illinois Fighting Illini | lowvig | Southern Illinois Salukis | +38.5 | +35.0 |
