@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-25 21:05 UTC_  
-_10694 line snapshots recorded so far._
+_Last updated: 2026-09-26 04:19 UTC_  
+_10956 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -13,6 +13,8 @@ _10694 line snapshots recorded so far._
 | 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Ohio Bobcats | -37.5 | -32.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +28.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
+| 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Pittsburgh Panthers | -49.5 | -54.5 |
+| 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Bucknell Bison | +49.5 | +54.5 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Southern Illinois Salukis | +39.5 | +35.5 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Illinois Fighting Illini | -39.5 | -35.5 |
 | 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | South Dakota Coyotes | +24.0 | +28.0 |
@@ -21,8 +23,6 @@ _10694 line snapshots recorded so far._
 | 4.0 | North Dakota Fighting Hawks @ Nebraska Cornhuskers | bovada | Nebraska Cornhuskers | -24.0 | -28.0 |
 | 4.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | North Carolina Central Eagles | +31.5 | +35.5 |
 | 4.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | East Carolina Pirates | -31.5 | -35.5 |
-| 4.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Pittsburgh Panthers | -49.5 | -53.5 |
-| 4.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Bucknell Bison | +49.5 | +53.5 |
 | 3.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | USC Trojans | -24.5 | -21.0 |
 | 3.5 | USC Trojans @ Rutgers Scarlet Knights | bovada | Rutgers Scarlet Knights | +24.5 | +21.0 |
 | 3.5 | Southern Illinois Salukis @ Illinois Fighting Illini | lowvig | Southern Illinois Salukis | +38.5 | +35.0 |
