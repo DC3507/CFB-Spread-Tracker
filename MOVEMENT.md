@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-26 04:19 UTC_  
-_10956 line snapshots recorded so far._
+_Last updated: 2026-09-26 11:05 UTC_  
+_11101 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -15,6 +15,8 @@ _10956 line snapshots recorded so far._
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Pittsburgh Panthers | -49.5 | -54.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Bucknell Bison | +49.5 | +54.5 |
+| 4.5 | Mercyhurst Lakers @ Western Kentucky Hilltoppers | betrivers | Western Kentucky Hilltoppers | -38.0 | -42.5 |
+| 4.5 | Mercyhurst Lakers @ Western Kentucky Hilltoppers | betrivers | Mercyhurst Lakers | +38.0 | +42.5 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Southern Illinois Salukis | +39.5 | +35.5 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Illinois Fighting Illini | -39.5 | -35.5 |
 | 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | South Dakota Coyotes | +24.0 | +28.0 |
@@ -35,5 +37,3 @@ _10956 line snapshots recorded so far._
 | 3.5 | Southern Illinois Salukis @ Illinois Fighting Illini | betonlineag | Illinois Fighting Illini | -38.5 | -35.0 |
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | lowvig | South Dakota Coyotes | +24.0 | +27.5 |
 | 3.5 | South Dakota Coyotes @ Boise State Broncos | lowvig | Boise State Broncos | -24.0 | -27.5 |
-| 3.5 | South Dakota Coyotes @ Boise State Broncos | bovada | South Dakota Coyotes | +24.5 | +28.0 |
-| 3.5 | South Dakota Coyotes @ Boise State Broncos | bovada | Boise State Broncos | -24.5 | -28.0 |
