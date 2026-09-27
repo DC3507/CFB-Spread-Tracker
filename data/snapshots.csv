@@ -11877,3 +11877,67 @@ timestamp_utc,game_id,commence_time,home_team,away_team,bookmaker,team,spread,pr
 2026-09-26T20:51:08Z,e972bb2c0291b991de32cc0188c9d338,2026-09-27T02:30:00Z,Nevada Wolf Pack,Air Force Falcons,betus,Nevada Wolf Pack,5.5,-110
 2026-09-26T20:51:08Z,e972bb2c0291b991de32cc0188c9d338,2026-09-27T02:30:00Z,Nevada Wolf Pack,Air Force Falcons,betrivers,Air Force Falcons,-6.0,-113
 2026-09-26T20:51:08Z,e972bb2c0291b991de32cc0188c9d338,2026-09-27T02:30:00Z,Nevada Wolf Pack,Air Force Falcons,betrivers,Nevada Wolf Pack,6.0,-109
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,fanduel,Missouri State Bears,30.5,-110
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,fanduel,SMU Mustangs,-30.5,-110
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betrivers,Missouri State Bears,31.5,-112
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betrivers,SMU Mustangs,-31.5,-112
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,draftkings,Missouri State Bears,30.5,-108
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,draftkings,SMU Mustangs,-30.5,-112
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,lowvig,Missouri State Bears,30.5,-101
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,lowvig,SMU Mustangs,-30.5,-111
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betonlineag,Missouri State Bears,30.5,-105
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betonlineag,SMU Mustangs,-30.5,-115
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betmgm,Missouri State Bears,30.5,-108
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betmgm,SMU Mustangs,-30.5,-110
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betus,Missouri State Bears,30.5,-110
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,betus,SMU Mustangs,-30.5,-110
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,bovada,Missouri State Bears,30.5,100
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,bovada,SMU Mustangs,-30.5,-120
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,mybookieag,Missouri State Bears,30.5,-110
+2026-09-27T00:21:44Z,4d76388c84fc859e6bae8ff267266872,2026-09-27T01:00:00Z,SMU Mustangs,Missouri State Bears,mybookieag,SMU Mustangs,-30.5,-110
+2026-09-27T00:21:44Z,a48c4a759a03a93bf42e23d2f8bf769e,2026-09-27T01:00:00Z,UTEP Miners,Oregon State Beavers,fanduel,Oregon State Beavers,-10.5,-120
+2026-09-27T00:21:44Z,a48c4a759a03a93bf42e23d2f8bf769e,2026-09-27T01:00:00Z,UTEP Miners,Oregon State Beavers,fanduel,UTEP Miners,10.5,-102
+2026-09-27T00:21:44Z,a48c4a759a03a93bf42e23d2f8bf769e,2026-09-27T01:00:00Z,UTEP Miners,Oregon State Beavers,betmgm,Oregon State Beavers,-11.0,-110
+2026-09-27T00:21:44Z,a48c4a759a03a93bf42e23d2f8bf769e,2026-09-27T01:00:00Z,UTEP Miners,Oregon State Beavers,bovada,Oregon State Beavers,-11.5,-110
+2026-09-27T00:21:44Z,a48c4a759a03a93bf42e23d2f8bf769e,2026-09-27T01:00:00Z,UTEP Miners,Oregon State Beavers,bovada,UTEP Miners,11.5,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,fanduel,Sacramento State Hornets,5.5,-108
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,fanduel,UMass Minutemen,-5.5,-112
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,draftkings,Sacramento State Hornets,5.5,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,draftkings,UMass Minutemen,-5.5,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,betonlineag,Sacramento State Hornets,6.0,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,betonlineag,UMass Minutemen,-6.0,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,lowvig,Sacramento State Hornets,6.0,-106
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,lowvig,UMass Minutemen,-6.0,-106
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,betus,Sacramento State Hornets,5.5,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,betus,UMass Minutemen,-5.5,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,betmgm,Sacramento State Hornets,5.5,-108
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,betmgm,UMass Minutemen,-5.5,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,betrivers,Sacramento State Hornets,5.0,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,bovada,Sacramento State Hornets,5.5,-110
+2026-09-27T00:21:44Z,dc2fd7526ea0bba9adc09a5627b637bf,2026-09-27T01:00:00Z,Sacramento State Hornets,UMass Minutemen,bovada,UMass Minutemen,-5.5,-110
+2026-09-27T00:21:44Z,e972bb2c0291b991de32cc0188c9d338,2026-09-27T02:30:00Z,Nevada Wolf Pack,Air Force Falcons,betmgm,Air Force Falcons,-5.5,-110
+2026-09-27T00:21:44Z,e972bb2c0291b991de32cc0188c9d338,2026-09-27T02:30:00Z,Nevada Wolf Pack,Air Force Falcons,betmgm,Nevada Wolf Pack,5.5,-108
+2026-09-27T00:21:44Z,e972bb2c0291b991de32cc0188c9d338,2026-09-27T02:30:00Z,Nevada Wolf Pack,Air Force Falcons,bovada,Air Force Falcons,-5.5,-110
+2026-09-27T00:21:44Z,e972bb2c0291b991de32cc0188c9d338,2026-09-27T02:30:00Z,Nevada Wolf Pack,Air Force Falcons,bovada,Nevada Wolf Pack,5.5,-110
+2026-09-27T00:21:44Z,0c86537a10b805d25a4ab4f4efdd4c30,2026-09-27T02:30:00Z,Stanford Cardinal,Georgia Tech Yellow Jackets,betmgm,Georgia Tech Yellow Jackets,-3.0,-105
+2026-09-27T00:21:44Z,0c86537a10b805d25a4ab4f4efdd4c30,2026-09-27T02:30:00Z,Stanford Cardinal,Georgia Tech Yellow Jackets,betmgm,Stanford Cardinal,3.0,-112
+2026-09-27T00:21:44Z,0c86537a10b805d25a4ab4f4efdd4c30,2026-09-27T02:30:00Z,Stanford Cardinal,Georgia Tech Yellow Jackets,betrivers,Georgia Tech Yellow Jackets,-3.0,-112
+2026-09-27T00:21:44Z,0c86537a10b805d25a4ab4f4efdd4c30,2026-09-27T02:30:00Z,Stanford Cardinal,Georgia Tech Yellow Jackets,betrivers,Stanford Cardinal,3.0,-112
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,fanduel,Minnesota Golden Gophers,11.5,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,fanduel,Washington Huskies,-11.5,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,draftkings,Minnesota Golden Gophers,12.5,-112
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,draftkings,Washington Huskies,-12.5,-108
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,mybookieag,Minnesota Golden Gophers,12.0,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,mybookieag,Washington Huskies,-12.0,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betonlineag,Minnesota Golden Gophers,12.5,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betonlineag,Washington Huskies,-12.5,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,lowvig,Minnesota Golden Gophers,12.5,-106
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,lowvig,Washington Huskies,-12.5,-106
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betmgm,Minnesota Golden Gophers,12.0,-112
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betmgm,Washington Huskies,-12.0,-118
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betus,Minnesota Golden Gophers,12.0,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betus,Washington Huskies,-12.0,-110
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betrivers,Minnesota Golden Gophers,11.0,-112
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,betrivers,Washington Huskies,-11.0,-113
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,bovada,Minnesota Golden Gophers,12.5,-115
+2026-09-27T00:21:44Z,e497e36c59bded468da11878568e7c80,2026-09-27T03:00:00Z,Washington Huskies,Minnesota Golden Gophers,bovada,Washington Huskies,-12.5,-105
