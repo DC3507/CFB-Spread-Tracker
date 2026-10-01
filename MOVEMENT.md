@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-09-30 21:52 UTC_  
-_14594 line snapshots recorded so far._
+_Last updated: 2026-10-01 04:08 UTC_  
+_14932 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -15,6 +15,8 @@ _14594 line snapshots recorded so far._
 | 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Ohio Bobcats | -37.5 | -32.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +28.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
+| 5.0 | McNeese State Cowboys @ LSU Tigers | fanduel | McNeese State Cowboys | +48.5 | +53.5 |
+| 5.0 | McNeese State Cowboys @ LSU Tigers | fanduel | LSU Tigers | -48.5 | -53.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Pittsburgh Panthers | -49.5 | -54.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Bucknell Bison | +49.5 | +54.5 |
 | 4.5 | Missouri State Bears @ SMU Mustangs | bovada | SMU Mustangs | -35.0 | -30.5 |
@@ -35,5 +37,3 @@ _14594 line snapshots recorded so far._
 | 4.0 | Missouri State Bears @ SMU Mustangs | draftkings | Missouri State Bears | +34.5 | +30.5 |
 | 4.0 | Missouri State Bears @ SMU Mustangs | betus | SMU Mustangs | -34.5 | -30.5 |
 | 4.0 | Missouri State Bears @ SMU Mustangs | betus | Missouri State Bears | +34.5 | +30.5 |
-| 4.0 | Missouri State Bears @ SMU Mustangs | betonlineag | SMU Mustangs | -34.5 | -30.5 |
-| 4.0 | Missouri State Bears @ SMU Mustangs | betonlineag | Missouri State Bears | +34.5 | +30.5 |
