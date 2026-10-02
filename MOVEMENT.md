@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-10-02 11:52 UTC_  
-_16118 line snapshots recorded so far._
+_Last updated: 2026-10-02 17:27 UTC_  
+_16424 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -19,6 +19,10 @@ _16118 line snapshots recorded so far._
 | 5.0 | McNeese State Cowboys @ LSU Tigers | fanduel | LSU Tigers | -48.5 | -53.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Pittsburgh Panthers | -49.5 | -54.5 |
 | 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Bucknell Bison | +49.5 | +54.5 |
+| 4.5 | Texas State Bobcats @ San Diego State Aztecs | bovada | Texas State Bobcats | -4.0 | -8.5 |
+| 4.5 | Texas State Bobcats @ San Diego State Aztecs | bovada | San Diego State Aztecs | +4.0 | +8.5 |
+| 4.5 | Texas State Bobcats @ San Diego State Aztecs | betrivers | Texas State Bobcats | -4.0 | -8.5 |
+| 4.5 | Texas State Bobcats @ San Diego State Aztecs | betrivers | San Diego State Aztecs | +4.0 | +8.5 |
 | 4.5 | Missouri State Bears @ SMU Mustangs | bovada | SMU Mustangs | -35.0 | -30.5 |
 | 4.5 | Missouri State Bears @ SMU Mustangs | bovada | Missouri State Bears | +35.0 | +30.5 |
 | 4.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | Texas State Bobcats | -4.5 | -8.5 |
@@ -33,7 +37,3 @@ _16118 line snapshots recorded so far._
 | 4.0 | South Dakota Coyotes @ Boise State Broncos | betmgm | Boise State Broncos | -24.0 | -28.0 |
 | 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | fanduel | Tulsa Golden Hurricane | -1.5 | +2.5 |
 | 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | fanduel | North Texas Mean Green | +1.5 | -2.5 |
-| 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | draftkings | Tulsa Golden Hurricane | -1.5 | +2.5 |
-| 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | draftkings | North Texas Mean Green | +1.5 | -2.5 |
-| 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | betrivers | Tulsa Golden Hurricane | -1.5 | +2.5 |
-| 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | betrivers | North Texas Mean Green | +1.5 | -2.5 |
