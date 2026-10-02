@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-10-01 22:20 UTC_  
-_15782 line snapshots recorded so far._
+_Last updated: 2026-10-02 04:02 UTC_  
+_15974 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -25,8 +25,6 @@ _15782 line snapshots recorded so far._
 | 4.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | San Diego State Aztecs | +4.5 | +8.5 |
 | 4.0 | Texas State Bobcats @ San Diego State Aztecs | draftkings | Texas State Bobcats | -4.5 | -8.5 |
 | 4.0 | Texas State Bobcats @ San Diego State Aztecs | draftkings | San Diego State Aztecs | +4.5 | +8.5 |
-| 4.0 | Texas State Bobcats @ San Diego State Aztecs | betrivers | Texas State Bobcats | -4.0 | -8.0 |
-| 4.0 | Texas State Bobcats @ San Diego State Aztecs | betrivers | San Diego State Aztecs | +4.0 | +8.0 |
 | 4.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | Texas State Bobcats | -4.0 | -8.0 |
 | 4.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | San Diego State Aztecs | +4.0 | +8.0 |
 | 4.0 | Southern Illinois Salukis @ Illinois Fighting Illini | fanduel | Southern Illinois Salukis | +39.5 | +35.5 |
@@ -37,3 +35,5 @@ _15782 line snapshots recorded so far._
 | 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | fanduel | North Texas Mean Green | +1.5 | -2.5 |
 | 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | draftkings | Tulsa Golden Hurricane | -1.5 | +2.5 |
 | 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | draftkings | North Texas Mean Green | +1.5 | -2.5 |
+| 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | betrivers | Tulsa Golden Hurricane | -1.5 | +2.5 |
+| 4.0 | North Texas Mean Green @ Tulsa Golden Hurricane | betrivers | North Texas Mean Green | +1.5 | -2.5 |
