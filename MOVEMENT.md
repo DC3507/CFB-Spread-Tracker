@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-10-03 19:10 UTC_  
-_18363 line snapshots recorded so far._
+_Last updated: 2026-10-03 22:46 UTC_  
+_18545 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -9,6 +9,8 @@ _18363 line snapshots recorded so far._
 |-----:|---------|------|------|-----:|----:|
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | Texas State Bobcats | -4.5 | -10.5 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | San Diego State Aztecs | +4.5 | +10.5 |
+| 6.0 | Texas State Bobcats @ San Diego State Aztecs | bovada | Texas State Bobcats | -4.0 | -10.0 |
+| 6.0 | Texas State Bobcats @ San Diego State Aztecs | bovada | San Diego State Aztecs | +4.0 | +10.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | Texas State Bobcats | -4.0 | -10.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | San Diego State Aztecs | +4.0 | +10.0 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
@@ -21,8 +23,6 @@ _18363 line snapshots recorded so far._
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | mybookieag | San Diego State Aztecs | +4.5 | +10.0 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | lowvig | Texas State Bobcats | -4.5 | -10.0 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | lowvig | San Diego State Aztecs | +4.5 | +10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | bovada | Texas State Bobcats | -4.0 | -9.5 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | bovada | San Diego State Aztecs | +4.0 | +9.5 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betus | Texas State Bobcats | -4.5 | -10.0 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betus | San Diego State Aztecs | +4.5 | +10.0 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betrivers | Texas State Bobcats | -4.0 | -9.5 |
