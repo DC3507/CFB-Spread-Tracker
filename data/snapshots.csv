@@ -20232,3 +20232,176 @@ timestamp_utc,game_id,commence_time,home_team,away_team,bookmaker,team,spread,pr
 2026-10-06T22:19:21Z,c4db3412210ed8e1045807c73f69b377,2026-10-11T02:30:00Z,Fresno State Bulldogs,Boise State Broncos,betonlineag,Fresno State Bulldogs,6.5,-110
 2026-10-06T22:19:21Z,c4db3412210ed8e1045807c73f69b377,2026-10-11T02:30:00Z,Fresno State Bulldogs,Boise State Broncos,betus,Boise State Broncos,-6.5,-110
 2026-10-06T22:19:21Z,c4db3412210ed8e1045807c73f69b377,2026-10-11T02:30:00Z,Fresno State Bulldogs,Boise State Broncos,betus,Fresno State Bulldogs,6.5,-110
+2026-10-07T04:17:23Z,c89488b9c83038e85e02e92481d093fe,2026-10-07T23:00:00Z,Kennesaw State Owls,Jacksonville State Gamecocks,betmgm,Jacksonville State Gamecocks,-3.0,-102
+2026-10-07T04:17:23Z,c89488b9c83038e85e02e92481d093fe,2026-10-07T23:00:00Z,Kennesaw State Owls,Jacksonville State Gamecocks,bovada,Jacksonville State Gamecocks,-2.5,-120
+2026-10-07T04:17:23Z,c89488b9c83038e85e02e92481d093fe,2026-10-07T23:00:00Z,Kennesaw State Owls,Jacksonville State Gamecocks,bovada,Kennesaw State Owls,2.5,100
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,fanduel,Florida International Panthers,-6.5,-110
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,fanduel,New Mexico State Aggies,6.5,-110
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,betmgm,Florida International Panthers,-6.5,-110
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,betmgm,New Mexico State Aggies,6.5,-108
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,lowvig,Florida International Panthers,-6.5,-111
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,lowvig,New Mexico State Aggies,6.5,-101
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,betonlineag,Florida International Panthers,-6.5,-115
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,betonlineag,New Mexico State Aggies,6.5,-105
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,bovada,Florida International Panthers,-6.0,-110
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,bovada,New Mexico State Aggies,6.0,-110
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,betus,Florida International Panthers,-6.5,-115
+2026-10-07T04:17:23Z,9aa0a267b153a6cc0d6c3e5746e78213,2026-10-07T23:30:00Z,Florida International Panthers,New Mexico State Aggies,betus,New Mexico State Aggies,6.5,-105
+2026-10-07T04:17:23Z,b274da111dc9826f36e5fa238998dd69,2026-10-08T23:00:00Z,Liberty Flames,Sam Houston State Bearkats,bovada,Liberty Flames,-13.5,-120
+2026-10-07T04:17:23Z,b274da111dc9826f36e5fa238998dd69,2026-10-08T23:00:00Z,Liberty Flames,Sam Houston State Bearkats,bovada,Sam Houston State Bearkats,13.5,100
+2026-10-07T04:17:23Z,52f2d012fe3e686087077b0d7083159a,2026-10-08T23:30:00Z,Arkansas State Red Wolves,South Alabama Jaguars,betmgm,Arkansas State Red Wolves,-1.5,-110
+2026-10-07T04:17:23Z,52f2d012fe3e686087077b0d7083159a,2026-10-08T23:30:00Z,Arkansas State Red Wolves,South Alabama Jaguars,betmgm,South Alabama Jaguars,1.5,-108
+2026-10-07T04:17:23Z,2a637494f07611db6ba822fb84218d58,2026-10-08T23:30:00Z,UTSA Roadrunners,South Florida Bulls,betrivers,South Florida Bulls,7.0,-107
+2026-10-07T04:17:23Z,2a637494f07611db6ba822fb84218d58,2026-10-08T23:30:00Z,UTSA Roadrunners,South Florida Bulls,betrivers,UTSA Roadrunners,-7.0,-117
+2026-10-07T04:17:23Z,7556739cc30a38511b7f631581a416e4,2026-10-09T23:00:00Z,Louisville Cardinals,Florida State Seminoles,betmgm,Florida State Seminoles,3.5,-110
+2026-10-07T04:17:23Z,7556739cc30a38511b7f631581a416e4,2026-10-09T23:00:00Z,Louisville Cardinals,Florida State Seminoles,betmgm,Louisville Cardinals,-3.5,-108
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,fanduel,Iowa Hawkeyes,3.5,-120
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,betmgm,Iowa Hawkeyes,3.5,-118
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,betmgm,Washington Huskies,-3.5,-102
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,lowvig,Iowa Hawkeyes,3.0,100
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,lowvig,Washington Huskies,-3.0,-112
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,betonlineag,Iowa Hawkeyes,3.0,-104
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,betonlineag,Washington Huskies,-3.0,-116
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,bovada,Iowa Hawkeyes,3.0,-105
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,bovada,Washington Huskies,-3.0,-115
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,betus,Iowa Hawkeyes,3.5,-115
+2026-10-07T04:17:23Z,a168f1bed30ce7d56dc2b77dbfe37705,2026-10-10T01:00:00Z,Washington Huskies,Iowa Hawkeyes,betus,Washington Huskies,-3.5,-105
+2026-10-07T04:17:23Z,23614f055733537fb79ab73e68040eca,2026-10-10T01:00:00Z,San Jose State Spartans,Wyoming Cowboys,betrivers,San Jose State Spartans,-6.5,-108
+2026-10-07T04:17:23Z,23614f055733537fb79ab73e68040eca,2026-10-10T01:00:00Z,San Jose State Spartans,Wyoming Cowboys,betrivers,Wyoming Cowboys,6.5,-115
+2026-10-07T04:17:23Z,5d7901b0ad44ffe1b92e18fc8d511a7e,2026-10-10T16:00:00Z,West Virginia Mountaineers,Arizona Wildcats,lowvig,Arizona Wildcats,-3.0,-111
+2026-10-07T04:17:23Z,5d7901b0ad44ffe1b92e18fc8d511a7e,2026-10-10T16:00:00Z,West Virginia Mountaineers,Arizona Wildcats,lowvig,West Virginia Mountaineers,3.0,-101
+2026-10-07T04:17:23Z,5d7901b0ad44ffe1b92e18fc8d511a7e,2026-10-10T16:00:00Z,West Virginia Mountaineers,Arizona Wildcats,betonlineag,Arizona Wildcats,-3.0,-115
+2026-10-07T04:17:23Z,5d7901b0ad44ffe1b92e18fc8d511a7e,2026-10-10T16:00:00Z,West Virginia Mountaineers,Arizona Wildcats,betonlineag,West Virginia Mountaineers,3.0,-105
+2026-10-07T04:17:23Z,5d7901b0ad44ffe1b92e18fc8d511a7e,2026-10-10T16:00:00Z,West Virginia Mountaineers,Arizona Wildcats,mybookieag,Arizona Wildcats,-3.0,-110
+2026-10-07T04:17:23Z,5d7901b0ad44ffe1b92e18fc8d511a7e,2026-10-10T16:00:00Z,West Virginia Mountaineers,Arizona Wildcats,mybookieag,West Virginia Mountaineers,3.0,-110
+2026-10-07T04:17:23Z,3e691b53c660a64495a44816768176e8,2026-10-10T16:00:00Z,Nebraska Cornhuskers,Indiana Hoosiers,draftkings,Indiana Hoosiers,-7.0,-118
+2026-10-07T04:17:23Z,3e691b53c660a64495a44816768176e8,2026-10-10T16:00:00Z,Nebraska Cornhuskers,Indiana Hoosiers,draftkings,Nebraska Cornhuskers,7.0,-102
+2026-10-07T04:17:23Z,3e691b53c660a64495a44816768176e8,2026-10-10T16:00:00Z,Nebraska Cornhuskers,Indiana Hoosiers,betrivers,Indiana Hoosiers,-7.5,-110
+2026-10-07T04:17:23Z,3e691b53c660a64495a44816768176e8,2026-10-10T16:00:00Z,Nebraska Cornhuskers,Indiana Hoosiers,betrivers,Nebraska Cornhuskers,7.5,-113
+2026-10-07T04:17:23Z,3e691b53c660a64495a44816768176e8,2026-10-10T16:00:00Z,Nebraska Cornhuskers,Indiana Hoosiers,mybookieag,Indiana Hoosiers,-7.5,-110
+2026-10-07T04:17:23Z,3e691b53c660a64495a44816768176e8,2026-10-10T16:00:00Z,Nebraska Cornhuskers,Indiana Hoosiers,mybookieag,Nebraska Cornhuskers,7.5,-110
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,fanduel,NC State Wolfpack,3.5,-115
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,fanduel,Wake Forest Demon Deacons,-3.5,-105
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,betmgm,NC State Wolfpack,3.5,-115
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,betmgm,Wake Forest Demon Deacons,-3.5,-102
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,draftkings,NC State Wolfpack,3.5,-115
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,draftkings,Wake Forest Demon Deacons,-3.5,-105
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,lowvig,NC State Wolfpack,3.5,-110
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,lowvig,Wake Forest Demon Deacons,-3.5,-102
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,betonlineag,NC State Wolfpack,3.5,-117
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,betonlineag,Wake Forest Demon Deacons,-3.5,-103
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,mybookieag,NC State Wolfpack,3.5,-110
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,mybookieag,Wake Forest Demon Deacons,-3.5,-110
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,betus,NC State Wolfpack,3.5,-115
+2026-10-07T04:17:23Z,416ce0307b7b9d97f5365a29c1729339,2026-10-10T16:00:00Z,NC State Wolfpack,Wake Forest Demon Deacons,betus,Wake Forest Demon Deacons,-3.5,-105
+2026-10-07T04:17:23Z,b067027cbaeaf86e6c9bb26becb97c94,2026-10-10T16:00:00Z,Pittsburgh Panthers,North Carolina Tar Heels,fanduel,North Carolina Tar Heels,3.5,-106
+2026-10-07T04:17:23Z,b067027cbaeaf86e6c9bb26becb97c94,2026-10-10T16:00:00Z,Pittsburgh Panthers,North Carolina Tar Heels,fanduel,Pittsburgh Panthers,-3.5,-114
+2026-10-07T04:17:23Z,b067027cbaeaf86e6c9bb26becb97c94,2026-10-10T16:00:00Z,Pittsburgh Panthers,North Carolina Tar Heels,betmgm,North Carolina Tar Heels,3.5,-105
+2026-10-07T04:17:23Z,b067027cbaeaf86e6c9bb26becb97c94,2026-10-10T16:00:00Z,Pittsburgh Panthers,North Carolina Tar Heels,betmgm,Pittsburgh Panthers,-3.5,-112
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,fanduel,Oklahoma State Cowboys,-9.5,-115
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,fanduel,UCF Knights,9.5,-105
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,betmgm,Oklahoma State Cowboys,-9.5,-120
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,betmgm,UCF Knights,9.5,-110
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,draftkings,Oklahoma State Cowboys,-9.5,-112
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,draftkings,UCF Knights,9.5,-108
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,lowvig,Oklahoma State Cowboys,-9.0,-111
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,lowvig,UCF Knights,9.0,-101
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,betonlineag,Oklahoma State Cowboys,-9.0,-115
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,betonlineag,UCF Knights,9.0,-105
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,mybookieag,Oklahoma State Cowboys,-9.5,-110
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,mybookieag,UCF Knights,9.5,-110
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,bovada,Oklahoma State Cowboys,-10.0,-110
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,bovada,UCF Knights,10.0,-110
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,betus,Oklahoma State Cowboys,-9.5,-110
+2026-10-07T04:17:23Z,690e2edaba34c383d2ebfa8f8394f973,2026-10-10T16:00:00Z,Oklahoma State Cowboys,UCF Knights,betus,UCF Knights,9.5,-110
+2026-10-07T04:17:23Z,9383cbbbb905d9ee50a3341f6945eae7,2026-10-10T16:45:00Z,Florida Gators,South Carolina Gamecocks,mybookieag,Florida Gators,-12.0,-110
+2026-10-07T04:17:23Z,9383cbbbb905d9ee50a3341f6945eae7,2026-10-10T16:45:00Z,Florida Gators,South Carolina Gamecocks,mybookieag,South Carolina Gamecocks,12.0,-110
+2026-10-07T04:17:23Z,9383cbbbb905d9ee50a3341f6945eae7,2026-10-10T16:45:00Z,Florida Gators,South Carolina Gamecocks,fanduel,Florida Gators,-12.5,-110
+2026-10-07T04:17:23Z,9383cbbbb905d9ee50a3341f6945eae7,2026-10-10T16:45:00Z,Florida Gators,South Carolina Gamecocks,fanduel,South Carolina Gamecocks,12.5,-110
+2026-10-07T04:17:23Z,9383cbbbb905d9ee50a3341f6945eae7,2026-10-10T16:45:00Z,Florida Gators,South Carolina Gamecocks,betmgm,Florida Gators,-12.5,-112
+2026-10-07T04:17:23Z,9383cbbbb905d9ee50a3341f6945eae7,2026-10-10T16:45:00Z,Florida Gators,South Carolina Gamecocks,betmgm,South Carolina Gamecocks,12.5,-118
+2026-10-07T04:17:23Z,310dd8851a99203930a45881b0156d36,2026-10-10T17:00:00Z,Appalachian State Mountaineers,Old Dominion Monarchs,betmgm,Old Dominion Monarchs,10.0,-110
+2026-10-07T04:17:23Z,e2a6fcdae461277e7cc041ff631d1b0c,2026-10-10T19:30:00Z,Toledo Rockets,Buffalo Bulls,draftkings,Buffalo Bulls,21.0,-110
+2026-10-07T04:17:23Z,e2a6fcdae461277e7cc041ff631d1b0c,2026-10-10T19:30:00Z,Toledo Rockets,Buffalo Bulls,draftkings,Toledo Rockets,-21.0,-110
+2026-10-07T04:17:23Z,e2a6fcdae461277e7cc041ff631d1b0c,2026-10-10T19:30:00Z,Toledo Rockets,Buffalo Bulls,betmgm,Buffalo Bulls,21.0,-112
+2026-10-07T04:17:23Z,e2a6fcdae461277e7cc041ff631d1b0c,2026-10-10T19:30:00Z,Toledo Rockets,Buffalo Bulls,betmgm,Toledo Rockets,-21.0,-105
+2026-10-07T04:17:23Z,e2a6fcdae461277e7cc041ff631d1b0c,2026-10-10T19:30:00Z,Toledo Rockets,Buffalo Bulls,mybookieag,Buffalo Bulls,21.0,-110
+2026-10-07T04:17:23Z,e2a6fcdae461277e7cc041ff631d1b0c,2026-10-10T19:30:00Z,Toledo Rockets,Buffalo Bulls,mybookieag,Toledo Rockets,-21.0,-110
+2026-10-07T04:17:23Z,9f633922d2cc5fa338aa22d1fcb83099,2026-10-10T19:30:00Z,California Golden Bears,Virginia Tech Hokies,betrivers,California Golden Bears,9.5,-112
+2026-10-07T04:17:23Z,9f633922d2cc5fa338aa22d1fcb83099,2026-10-10T19:30:00Z,California Golden Bears,Virginia Tech Hokies,betrivers,Virginia Tech Hokies,-9.5,-112
+2026-10-07T04:17:23Z,9f633922d2cc5fa338aa22d1fcb83099,2026-10-10T19:30:00Z,California Golden Bears,Virginia Tech Hokies,betmgm,California Golden Bears,10.0,-112
+2026-10-07T04:17:23Z,9f633922d2cc5fa338aa22d1fcb83099,2026-10-10T19:30:00Z,California Golden Bears,Virginia Tech Hokies,bovada,California Golden Bears,10.0,-110
+2026-10-07T04:17:23Z,9f633922d2cc5fa338aa22d1fcb83099,2026-10-10T19:30:00Z,California Golden Bears,Virginia Tech Hokies,bovada,Virginia Tech Hokies,-10.0,-110
+2026-10-07T04:17:23Z,43457c08aa50a7e0038aa06eb3437680,2026-10-10T19:30:00Z,Georgia Tech Yellow Jackets,Duke Blue Devils,betmgm,Duke Blue Devils,-7.0,-105
+2026-10-07T04:17:23Z,43457c08aa50a7e0038aa06eb3437680,2026-10-10T19:30:00Z,Georgia Tech Yellow Jackets,Duke Blue Devils,draftkings,Duke Blue Devils,-7.0,-105
+2026-10-07T04:17:23Z,43457c08aa50a7e0038aa06eb3437680,2026-10-10T19:30:00Z,Georgia Tech Yellow Jackets,Duke Blue Devils,draftkings,Georgia Tech Yellow Jackets,7.0,-115
+2026-10-07T04:17:23Z,43457c08aa50a7e0038aa06eb3437680,2026-10-10T19:30:00Z,Georgia Tech Yellow Jackets,Duke Blue Devils,betus,Duke Blue Devils,-7.0,-110
+2026-10-07T04:17:23Z,43457c08aa50a7e0038aa06eb3437680,2026-10-10T19:30:00Z,Georgia Tech Yellow Jackets,Duke Blue Devils,betus,Georgia Tech Yellow Jackets,7.0,-110
+2026-10-07T04:17:23Z,6050a18b694eb1d661ee7fa571b7ddbb,2026-10-10T19:30:00Z,Western Michigan Broncos,Kent State Golden Flashes,mybookieag,Kent State Golden Flashes,14.0,-110
+2026-10-07T04:17:23Z,6050a18b694eb1d661ee7fa571b7ddbb,2026-10-10T19:30:00Z,Western Michigan Broncos,Kent State Golden Flashes,mybookieag,Western Michigan Broncos,-14.0,-110
+2026-10-07T04:17:23Z,6050a18b694eb1d661ee7fa571b7ddbb,2026-10-10T19:30:00Z,Western Michigan Broncos,Kent State Golden Flashes,bovada,Kent State Golden Flashes,13.5,-105
+2026-10-07T04:17:23Z,6050a18b694eb1d661ee7fa571b7ddbb,2026-10-10T19:30:00Z,Western Michigan Broncos,Kent State Golden Flashes,bovada,Western Michigan Broncos,-13.5,-115
+2026-10-07T04:17:23Z,6050a18b694eb1d661ee7fa571b7ddbb,2026-10-10T19:30:00Z,Western Michigan Broncos,Kent State Golden Flashes,betus,Kent State Golden Flashes,13.5,-105
+2026-10-07T04:17:23Z,6050a18b694eb1d661ee7fa571b7ddbb,2026-10-10T19:30:00Z,Western Michigan Broncos,Kent State Golden Flashes,betus,Western Michigan Broncos,-13.5,-115
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,fanduel,Oklahoma Sooners,7.5,-105
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,fanduel,Texas Longhorns,-7.5,-115
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betmgm,Oklahoma Sooners,7.5,-108
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betmgm,Texas Longhorns,-7.5,-110
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,draftkings,Oklahoma Sooners,7.5,-105
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,draftkings,Texas Longhorns,-7.5,-115
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betrivers,Oklahoma Sooners,8.0,-114
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betrivers,Texas Longhorns,-8.0,-109
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,mybookieag,Oklahoma Sooners,7.5,-110
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,mybookieag,Texas Longhorns,-7.5,-110
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betonlineag,Oklahoma Sooners,8.0,-112
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betonlineag,Texas Longhorns,-8.0,-108
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,lowvig,Oklahoma Sooners,8.0,-108
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,lowvig,Texas Longhorns,-8.0,-104
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betus,Oklahoma Sooners,8.0,-110
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,betus,Texas Longhorns,-8.0,-110
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,bovada,Oklahoma Sooners,7.5,-110
+2026-10-07T04:17:23Z,82b83ec87fc2be5faa2e9f26ac50edef,2026-10-10T19:30:00Z,Oklahoma Sooners,Texas Longhorns,bovada,Texas Longhorns,-7.5,-110
+2026-10-07T04:17:23Z,d9b77825d169fdd683f8efa7c1948a8e,2026-10-10T19:30:00Z,Vanderbilt Commodores,Ole Miss Rebels,betmgm,Ole Miss Rebels,-9.5,-112
+2026-10-07T04:17:23Z,d9b77825d169fdd683f8efa7c1948a8e,2026-10-10T19:30:00Z,Vanderbilt Commodores,Ole Miss Rebels,betmgm,Vanderbilt Commodores,9.5,-118
+2026-10-07T04:17:23Z,3ad908e99942c191b72d855b6f1b508f,2026-10-10T19:30:00Z,Oregon Ducks,UCLA Bruins,betmgm,Oregon Ducks,-11.5,-108
+2026-10-07T04:17:23Z,3ad908e99942c191b72d855b6f1b508f,2026-10-10T19:30:00Z,Oregon Ducks,UCLA Bruins,betmgm,UCLA Bruins,11.5,-110
+2026-10-07T04:17:23Z,0dd06b09349f56ce8dfc2d61d5fcd042,2026-10-10T20:15:00Z,Arkansas Razorbacks,Tennessee Volunteers,draftkings,Arkansas Razorbacks,13.5,-110
+2026-10-07T04:17:23Z,0dd06b09349f56ce8dfc2d61d5fcd042,2026-10-10T20:15:00Z,Arkansas Razorbacks,Tennessee Volunteers,draftkings,Tennessee Volunteers,-13.5,-110
+2026-10-07T04:17:23Z,6e4d435e9afc8a6db1162d2057d74acb,2026-10-10T22:00:00Z,Oregon State Beavers,San Diego State Aztecs,betrivers,Oregon State Beavers,-15.5,-112
+2026-10-07T04:17:23Z,6e4d435e9afc8a6db1162d2057d74acb,2026-10-10T22:00:00Z,Oregon State Beavers,San Diego State Aztecs,betrivers,San Diego State Aztecs,15.5,-112
+2026-10-07T04:17:23Z,bdfaffbf5873812f3e04de2cbd273aa6,2026-10-10T23:00:00Z,Kentucky Wildcats,LSU Tigers,bovada,Kentucky Wildcats,8.5,-110
+2026-10-07T04:17:23Z,bdfaffbf5873812f3e04de2cbd273aa6,2026-10-10T23:00:00Z,Kentucky Wildcats,LSU Tigers,bovada,LSU Tigers,-8.5,-110
+2026-10-07T04:17:23Z,7cc5cec6dac13487c15b70d0f4411ca6,2026-10-10T23:00:00Z,Memphis Tigers,UAB Blazers,betrivers,Memphis Tigers,-14.5,-114
+2026-10-07T04:17:23Z,7cc5cec6dac13487c15b70d0f4411ca6,2026-10-10T23:00:00Z,Memphis Tigers,UAB Blazers,betrivers,UAB Blazers,14.5,-109
+2026-10-07T04:17:23Z,7cc5cec6dac13487c15b70d0f4411ca6,2026-10-10T23:00:00Z,Memphis Tigers,UAB Blazers,betmgm,Memphis Tigers,-14.0,-110
+2026-10-07T04:17:23Z,7cc5cec6dac13487c15b70d0f4411ca6,2026-10-10T23:00:00Z,Memphis Tigers,UAB Blazers,betmgm,UAB Blazers,14.0,-108
+2026-10-07T04:17:23Z,a3ce49a66d513b6bd1772b8696863ee1,2026-10-10T23:00:00Z,UTEP Miners,Nevada Wolf Pack,betrivers,Nevada Wolf Pack,-9.5,-115
+2026-10-07T04:17:23Z,a3ce49a66d513b6bd1772b8696863ee1,2026-10-10T23:00:00Z,UTEP Miners,Nevada Wolf Pack,betrivers,UTEP Miners,9.5,-108
+2026-10-07T04:17:23Z,b009edde78bdd184c039f774c1795f95,2026-10-10T23:30:00Z,Northern Illinois Huskies,Air Force Falcons,betrivers,Air Force Falcons,-7.5,-114
+2026-10-07T04:17:23Z,b009edde78bdd184c039f774c1795f95,2026-10-10T23:30:00Z,Northern Illinois Huskies,Air Force Falcons,betrivers,Northern Illinois Huskies,7.5,-109
+2026-10-07T04:17:23Z,59f8c98dee8ce77cc17c5b4958e4f325,2026-10-10T23:30:00Z,Alabama Crimson Tide,Georgia Bulldogs,betrivers,Alabama Crimson Tide,-1.5,-112
+2026-10-07T04:17:23Z,59f8c98dee8ce77cc17c5b4958e4f325,2026-10-10T23:30:00Z,Alabama Crimson Tide,Georgia Bulldogs,betrivers,Georgia Bulldogs,1.5,-112
+2026-10-07T04:17:23Z,2876b41c9c5327639fda141d7027eadb,2026-10-10T23:30:00Z,Georgia Southern Eagles,James Madison Dukes,fanduel,Georgia Southern Eagles,7.5,-104
+2026-10-07T04:17:23Z,2876b41c9c5327639fda141d7027eadb,2026-10-10T23:30:00Z,Georgia Southern Eagles,James Madison Dukes,fanduel,James Madison Dukes,-7.5,-118
+2026-10-07T04:17:23Z,2876b41c9c5327639fda141d7027eadb,2026-10-10T23:30:00Z,Georgia Southern Eagles,James Madison Dukes,betmgm,James Madison Dukes,-7.5,-110
+2026-10-07T04:17:23Z,2876b41c9c5327639fda141d7027eadb,2026-10-10T23:30:00Z,Georgia Southern Eagles,James Madison Dukes,bovada,Georgia Southern Eagles,7.5,-115
+2026-10-07T04:17:23Z,2876b41c9c5327639fda141d7027eadb,2026-10-10T23:30:00Z,Georgia Southern Eagles,James Madison Dukes,bovada,James Madison Dukes,-7.5,-105
+2026-10-07T04:17:23Z,2876b41c9c5327639fda141d7027eadb,2026-10-10T23:30:00Z,Georgia Southern Eagles,James Madison Dukes,betrivers,Georgia Southern Eagles,7.5,-113
+2026-10-07T04:17:23Z,2876b41c9c5327639fda141d7027eadb,2026-10-10T23:30:00Z,Georgia Southern Eagles,James Madison Dukes,betrivers,James Madison Dukes,-7.5,-110
+2026-10-07T04:17:23Z,837b4ddbdcd5e8e3a68a7c954208ff40,2026-10-10T23:30:00Z,Louisiana Tech Bulldogs,Louisiana Ragin Cajuns,draftkings,Louisiana Ragin Cajuns,3.0,-108
+2026-10-07T04:17:23Z,837b4ddbdcd5e8e3a68a7c954208ff40,2026-10-10T23:30:00Z,Louisiana Tech Bulldogs,Louisiana Ragin Cajuns,draftkings,Louisiana Tech Bulldogs,-3.0,-112
+2026-10-07T04:17:23Z,837b4ddbdcd5e8e3a68a7c954208ff40,2026-10-10T23:30:00Z,Louisiana Tech Bulldogs,Louisiana Ragin Cajuns,betmgm,Louisiana Ragin Cajuns,3.0,-108
+2026-10-07T04:17:23Z,837b4ddbdcd5e8e3a68a7c954208ff40,2026-10-10T23:30:00Z,Louisiana Tech Bulldogs,Louisiana Ragin Cajuns,betmgm,Louisiana Tech Bulldogs,-3.0,-110
+2026-10-07T04:17:23Z,837b4ddbdcd5e8e3a68a7c954208ff40,2026-10-10T23:30:00Z,Louisiana Tech Bulldogs,Louisiana Ragin Cajuns,bovada,Louisiana Ragin Cajuns,3.0,-110
+2026-10-07T04:17:23Z,837b4ddbdcd5e8e3a68a7c954208ff40,2026-10-10T23:30:00Z,Louisiana Tech Bulldogs,Louisiana Ragin Cajuns,bovada,Louisiana Tech Bulldogs,-3.0,-110
+2026-10-07T04:17:23Z,4462f1fa168ab2a5a25fe2807ebec8ac,2026-10-10T23:30:00Z,Penn State Nittany Lions,USC Trojans,betmgm,Penn State Nittany Lions,-1.5,-110
+2026-10-07T04:17:23Z,4462f1fa168ab2a5a25fe2807ebec8ac,2026-10-10T23:30:00Z,Penn State Nittany Lions,USC Trojans,betmgm,USC Trojans,1.5,-108
+2026-10-07T04:17:23Z,4462f1fa168ab2a5a25fe2807ebec8ac,2026-10-10T23:30:00Z,Penn State Nittany Lions,USC Trojans,bovada,Penn State Nittany Lions,-1.5,-110
+2026-10-07T04:17:23Z,4462f1fa168ab2a5a25fe2807ebec8ac,2026-10-10T23:30:00Z,Penn State Nittany Lions,USC Trojans,bovada,USC Trojans,1.5,-110
+2026-10-07T04:17:23Z,616eba68e65fe65023aa2335e81096c8,2026-10-11T02:15:00Z,Utah Utes,Kansas Jayhawks,betrivers,Kansas Jayhawks,15.5,-110
+2026-10-07T04:17:23Z,616eba68e65fe65023aa2335e81096c8,2026-10-11T02:15:00Z,Utah Utes,Kansas Jayhawks,betrivers,Utah Utes,-15.5,-113
+2026-10-07T04:17:23Z,7dd6e0d9f2657c834974c28b286ff58d,2026-10-11T02:30:00Z,Arizona State Sun Devils,Hawaii Rainbow Warriors,fanduel,Arizona State Sun Devils,-21.5,-105
+2026-10-07T04:17:23Z,7dd6e0d9f2657c834974c28b286ff58d,2026-10-11T02:30:00Z,Arizona State Sun Devils,Hawaii Rainbow Warriors,fanduel,Hawaii Rainbow Warriors,21.5,-115
+2026-10-07T04:17:23Z,7dd6e0d9f2657c834974c28b286ff58d,2026-10-11T02:30:00Z,Arizona State Sun Devils,Hawaii Rainbow Warriors,betmgm,Arizona State Sun Devils,-20.5,-112
+2026-10-07T04:17:23Z,7dd6e0d9f2657c834974c28b286ff58d,2026-10-11T02:30:00Z,Arizona State Sun Devils,Hawaii Rainbow Warriors,betmgm,Hawaii Rainbow Warriors,20.5,-105
+2026-10-07T04:17:23Z,c4db3412210ed8e1045807c73f69b377,2026-10-11T02:30:00Z,Fresno State Bulldogs,Boise State Broncos,betrivers,Fresno State Bulldogs,6.0,-109
