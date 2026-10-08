@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-10-08 12:48 UTC_  
-_21390 line snapshots recorded so far._
+_Last updated: 2026-10-08 22:52 UTC_  
+_21834 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -35,5 +35,5 @@ _21390 line snapshots recorded so far._
 | 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Ohio Bobcats | -37.5 | -32.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +28.5 |
 | 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
-| 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Pittsburgh Panthers | -49.5 | -54.5 |
-| 5.0 | Bucknell Bison @ Pittsburgh Panthers | fanduel | Bucknell Bison | +49.5 | +54.5 |
+| 5.0 | Missouri State Bears @ Western Kentucky Hilltoppers | betrivers | Western Kentucky Hilltoppers | -3.0 | +2.0 |
+| 5.0 | Missouri State Bears @ Western Kentucky Hilltoppers | betrivers | Missouri State Bears | +3.0 | -2.0 |
