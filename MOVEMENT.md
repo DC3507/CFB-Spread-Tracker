@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-10-10 12:10 UTC_  
-_22969 line snapshots recorded so far._
+_Last updated: 2026-10-10 18:20 UTC_  
+_23337 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -31,9 +31,9 @@ _22969 line snapshots recorded so far._
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betonlineag | San Diego State Aztecs | +4.5 | +10.0 |
 | 5.0 | Texas State Bobcats @ San Diego State Aztecs | draftkings | Texas State Bobcats | -4.5 | -9.5 |
 | 5.0 | Texas State Bobcats @ San Diego State Aztecs | draftkings | San Diego State Aztecs | +4.5 | +9.5 |
+| 5.0 | Syracuse Orange @ Virginia Cavaliers | fanduel | Virginia Cavaliers | -8.5 | -13.5 |
+| 5.0 | Syracuse Orange @ Virginia Cavaliers | fanduel | Syracuse Orange | +8.5 | +13.5 |
+| 5.0 | Syracuse Orange @ Virginia Cavaliers | bovada | Virginia Cavaliers | -9.0 | -14.0 |
+| 5.0 | Syracuse Orange @ Virginia Cavaliers | bovada | Syracuse Orange | +9.0 | +14.0 |
 | 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Stonehill Skyhawks | +37.5 | +32.5 |
 | 5.0 | Stonehill Skyhawks @ Ohio Bobcats | fanduel | Ohio Bobcats | -37.5 | -32.5 |
-| 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | South Dakota Coyotes | +23.5 | +28.5 |
-| 5.0 | South Dakota Coyotes @ Boise State Broncos | draftkings | Boise State Broncos | -23.5 | -28.5 |
-| 5.0 | Missouri State Bears @ Western Kentucky Hilltoppers | betrivers | Western Kentucky Hilltoppers | -3.0 | +2.0 |
-| 5.0 | Missouri State Bears @ Western Kentucky Hilltoppers | betrivers | Missouri State Bears | +3.0 | -2.0 |
