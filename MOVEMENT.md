@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-10-21 03:18 UTC_  
-_31676 line snapshots recorded so far._
+_Last updated: 2026-10-21 11:09 UTC_  
+_31754 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
