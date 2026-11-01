@@ -40418,3 +40418,45 @@ timestamp_utc,game_id,commence_time,home_team,away_team,bookmaker,team,spread,pr
 2026-10-31T21:13:52Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,draftkings,Oregon State Beavers,-6.0,-110
 2026-10-31T21:13:52Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,mybookieag,Fresno State Bulldogs,6.0,-105
 2026-10-31T21:13:52Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,mybookieag,Oregon State Beavers,-6.0,-115
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,fanduel,Boise State Broncos,-10.5,-105
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,fanduel,Texas State Bobcats,10.5,-115
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,draftkings,Boise State Broncos,-10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,draftkings,Texas State Bobcats,10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betonlineag,Boise State Broncos,-10.0,-115
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betonlineag,Texas State Bobcats,10.0,-105
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,lowvig,Boise State Broncos,-10.0,-111
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,lowvig,Texas State Bobcats,10.0,-101
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betmgm,Boise State Broncos,-10.0,-108
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betmgm,Texas State Bobcats,10.0,-112
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,mybookieag,Boise State Broncos,-10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,mybookieag,Texas State Bobcats,10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betus,Boise State Broncos,-10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betus,Texas State Bobcats,10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,bovada,Boise State Broncos,-10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,bovada,Texas State Bobcats,10.0,-110
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betrivers,Boise State Broncos,-10.5,-112
+2026-11-01T00:49:17Z,b02a5444929be961896a4db9742a01fa,2026-11-01T02:00:00Z,Boise State Broncos,Texas State Bobcats,betrivers,Texas State Bobcats,10.5,-112
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,draftkings,Northern Illinois Huskies,21.5,-108
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,draftkings,UNLV Rebels,-21.5,-112
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,betonlineag,Northern Illinois Huskies,21.5,-105
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,betonlineag,UNLV Rebels,-21.5,-115
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,lowvig,Northern Illinois Huskies,21.5,-101
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,lowvig,UNLV Rebels,-21.5,-111
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,betmgm,Northern Illinois Huskies,21.5,-108
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,betmgm,UNLV Rebels,-21.5,-110
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,mybookieag,Northern Illinois Huskies,21.5,-110
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,mybookieag,UNLV Rebels,-21.5,-110
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,bovada,Northern Illinois Huskies,22.0,-112
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,bovada,UNLV Rebels,-22.0,-108
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,betrivers,Northern Illinois Huskies,22.5,-113
+2026-11-01T00:49:17Z,1d5b8007f5249010b9c501138e25ac74,2026-11-01T02:30:00Z,UNLV Rebels,Northern Illinois Huskies,betrivers,UNLV Rebels,-22.5,-110
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,fanduel,Fresno State Bulldogs,6.5,-110
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,fanduel,Oregon State Beavers,-6.5,-110
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,lowvig,Fresno State Bulldogs,6.0,-106
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,lowvig,Oregon State Beavers,-6.0,-106
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,betmgm,Fresno State Bulldogs,6.5,-110
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,betmgm,Oregon State Beavers,-6.5,-108
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,mybookieag,Fresno State Bulldogs,6.0,-110
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,mybookieag,Oregon State Beavers,-6.0,-110
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,bovada,Fresno State Bulldogs,6.0,-112
+2026-11-01T00:49:17Z,d0126c335a51772c70c76e17ca06afb3,2026-11-01T03:00:00Z,Fresno State Bulldogs,Oregon State Beavers,bovada,Oregon State Beavers,-6.0,-108
