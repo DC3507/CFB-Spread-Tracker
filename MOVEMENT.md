@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-11-13 13:55 UTC_  
-_49679 line snapshots recorded so far._
+_Last updated: 2026-11-13 23:14 UTC_  
+_50241 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -29,11 +29,11 @@ _49679 line snapshots recorded so far._
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betrivers | San Diego State Aztecs | +4.0 | +9.5 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betonlineag | Texas State Bobcats | -4.5 | -10.0 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betonlineag | San Diego State Aztecs | +4.5 | +10.0 |
-| 5.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Oregon State Beavers | +10.5 | +16.0 |
-| 5.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Boise State Broncos | -10.5 | -16.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | mybookieag | Kansas State Wildcats | -2.5 | +3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | mybookieag | Colorado Buffaloes | +2.5 | -3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Kansas State Wildcats | -2.5 | +3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Colorado Buffaloes | +2.5 | -3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betus | Kansas State Wildcats | -2.5 | +3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betus | Colorado Buffaloes | +2.5 | -3.0 |
+| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betmgm | Kansas State Wildcats | -2.5 | +3.0 |
+| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betmgm | Colorado Buffaloes | +2.5 | -3.0 |
