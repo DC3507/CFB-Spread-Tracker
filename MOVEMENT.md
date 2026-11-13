@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-11-13 05:02 UTC_  
-_49552 line snapshots recorded so far._
+_Last updated: 2026-11-13 13:55 UTC_  
+_49679 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -15,8 +15,6 @@ _49552 line snapshots recorded so far._
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | San Diego State Aztecs | +4.0 | +10.0 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -35.5 |
-| 6.0 | Oregon State Beavers @ Boise State Broncos | betrivers | Oregon State Beavers | +10.5 | +16.5 |
-| 6.0 | Oregon State Beavers @ Boise State Broncos | betrivers | Boise State Broncos | -10.5 | -16.5 |
 | 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | North Carolina Central Eagles | +31.5 | +37.5 |
 | 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | East Carolina Pirates | -31.5 | -37.5 |
 | 6.0 | McNeese State Cowboys @ LSU Tigers | fanduel | McNeese State Cowboys | +48.5 | +54.5 |
@@ -31,6 +29,8 @@ _49552 line snapshots recorded so far._
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betrivers | San Diego State Aztecs | +4.0 | +9.5 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betonlineag | Texas State Bobcats | -4.5 | -10.0 |
 | 5.5 | Texas State Bobcats @ San Diego State Aztecs | betonlineag | San Diego State Aztecs | +4.5 | +10.0 |
+| 5.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Oregon State Beavers | +10.5 | +16.0 |
+| 5.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Boise State Broncos | -10.5 | -16.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | mybookieag | Kansas State Wildcats | -2.5 | +3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | mybookieag | Colorado Buffaloes | +2.5 | -3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Kansas State Wildcats | -2.5 | +3.0 |
