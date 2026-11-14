@@ -1,12 +1,14 @@
 # CFB Spread Movement
 
-_Last updated: 2026-11-14 13:14 UTC_  
-_50930 line snapshots recorded so far._
+_Last updated: 2026-11-14 18:58 UTC_  
+_51372 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
 | Move | Matchup | Book | Team | Open | Now |
 |-----:|---------|------|------|-----:|----:|
+| 6.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Oregon State Beavers | +10.5 | +17.0 |
+| 6.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Boise State Broncos | -10.5 | -17.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | Texas State Bobcats | -4.5 | -10.5 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | San Diego State Aztecs | +4.5 | +10.5 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | bovada | Texas State Bobcats | -4.0 | -10.0 |
@@ -35,5 +37,3 @@ _50930 line snapshots recorded so far._
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Colorado Buffaloes | +2.5 | -3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betus | Kansas State Wildcats | -2.5 | +3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betus | Colorado Buffaloes | +2.5 | -3.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betmgm | Kansas State Wildcats | -2.5 | +3.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betmgm | Colorado Buffaloes | +2.5 | -3.0 |
