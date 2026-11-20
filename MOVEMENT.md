@@ -1,7 +1,7 @@
 # CFB Spread Movement
 
-_Last updated: 2026-11-20 14:53 UTC_  
-_55335 line snapshots recorded so far._
+_Last updated: 2026-11-20 23:40 UTC_  
+_55891 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
@@ -15,6 +15,8 @@ _55335 line snapshots recorded so far._
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | bovada | San Diego State Aztecs | +4.0 | +10.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | Texas State Bobcats | -4.0 | -10.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | San Diego State Aztecs | +4.0 | +10.0 |
+| 6.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Tennessee Tech Golden Eagles | +37.5 | +31.5 |
+| 6.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Mississippi State Bulldogs | -37.5 | -31.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -35.5 |
 | 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | North Carolina Central Eagles | +31.5 | +37.5 |
@@ -35,5 +37,3 @@ _55335 line snapshots recorded so far._
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | mybookieag | Colorado Buffaloes | +2.5 | -3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Kansas State Wildcats | -2.5 | +3.0 |
 | 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Colorado Buffaloes | +2.5 | -3.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betus | Kansas State Wildcats | -2.5 | +3.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | betus | Colorado Buffaloes | +2.5 | -3.0 |
