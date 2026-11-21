@@ -1,12 +1,14 @@
 # CFB Spread Movement
 
-_Last updated: 2026-11-21 06:23 UTC_  
-_56120 line snapshots recorded so far._
+_Last updated: 2026-11-21 15:58 UTC_  
+_56762 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
 | Move | Matchup | Book | Team | Open | Now |
 |-----:|---------|------|------|-----:|----:|
+| 8.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Tennessee Tech Golden Eagles | +37.5 | +29.5 |
+| 8.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Mississippi State Bulldogs | -37.5 | -29.5 |
 | 6.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Oregon State Beavers | +10.5 | +17.0 |
 | 6.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Boise State Broncos | -10.5 | -17.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | Texas State Bobcats | -4.5 | -10.5 |
@@ -15,8 +17,6 @@ _56120 line snapshots recorded so far._
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | bovada | San Diego State Aztecs | +4.0 | +10.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | Texas State Bobcats | -4.0 | -10.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | San Diego State Aztecs | +4.0 | +10.0 |
-| 6.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Tennessee Tech Golden Eagles | +37.5 | +31.5 |
-| 6.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Mississippi State Bulldogs | -37.5 | -31.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -35.5 |
 | 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | North Carolina Central Eagles | +31.5 | +37.5 |
