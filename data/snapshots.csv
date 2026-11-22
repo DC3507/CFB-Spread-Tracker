@@ -56870,3 +56870,51 @@ timestamp_utc,game_id,commence_time,home_team,away_team,bookmaker,team,spread,pr
 2026-11-21T21:35:29Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,bovada,Utah State Aggies,7.0,-112
 2026-11-21T21:35:29Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,mybookieag,Oregon State Beavers,-7.0,-110
 2026-11-21T21:35:29Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,mybookieag,Utah State Aggies,7.0,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,draftkings,TCU Horned Frogs,9.5,-112
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,draftkings,Utah Utes,-9.5,-108
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,fanduel,TCU Horned Frogs,8.5,-106
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,fanduel,Utah Utes,-8.5,-114
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betonlineag,TCU Horned Frogs,9.5,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betonlineag,Utah Utes,-9.5,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betrivers,TCU Horned Frogs,8.5,-113
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betrivers,Utah Utes,-8.5,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betmgm,TCU Horned Frogs,9.5,-108
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betmgm,Utah Utes,-9.5,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betus,TCU Horned Frogs,9.5,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,betus,Utah Utes,-9.5,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,bovada,TCU Horned Frogs,9.5,-105
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,bovada,Utah Utes,-9.5,-115
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,mybookieag,TCU Horned Frogs,9.0,-110
+2026-11-22T01:58:18Z,7585fb8b12453a68ca1195319ae44c78,2026-11-22T02:00:00Z,TCU Horned Frogs,Utah Utes,mybookieag,Utah Utes,-9.0,-110
+2026-11-22T01:58:18Z,028f0fcc2f6411c4816e543bb7fa226c,2026-11-22T02:30:00Z,Boise State Broncos,San Diego State Aztecs,betonlineag,Boise State Broncos,-20.5,-110
+2026-11-22T01:58:18Z,028f0fcc2f6411c4816e543bb7fa226c,2026-11-22T02:30:00Z,Boise State Broncos,San Diego State Aztecs,betonlineag,San Diego State Aztecs,20.5,-110
+2026-11-22T01:58:18Z,028f0fcc2f6411c4816e543bb7fa226c,2026-11-22T02:30:00Z,Boise State Broncos,San Diego State Aztecs,lowvig,Boise State Broncos,-20.5,-106
+2026-11-22T01:58:18Z,028f0fcc2f6411c4816e543bb7fa226c,2026-11-22T02:30:00Z,Boise State Broncos,San Diego State Aztecs,lowvig,San Diego State Aztecs,20.5,-106
+2026-11-22T01:58:18Z,028f0fcc2f6411c4816e543bb7fa226c,2026-11-22T02:30:00Z,Boise State Broncos,San Diego State Aztecs,betmgm,Boise State Broncos,-20.5,-108
+2026-11-22T01:58:18Z,028f0fcc2f6411c4816e543bb7fa226c,2026-11-22T02:30:00Z,Boise State Broncos,San Diego State Aztecs,bovada,Boise State Broncos,-20.5,-112
+2026-11-22T01:58:18Z,028f0fcc2f6411c4816e543bb7fa226c,2026-11-22T02:30:00Z,Boise State Broncos,San Diego State Aztecs,bovada,San Diego State Aztecs,20.5,-108
+2026-11-22T01:58:18Z,ecfec2fe1db57f88e603f9947add1e26,2026-11-22T03:15:00Z,Arizona State Sun Devils,Oklahoma State Cowboys,betrivers,Arizona State Sun Devils,3.0,-118
+2026-11-22T01:58:18Z,ecfec2fe1db57f88e603f9947add1e26,2026-11-22T03:15:00Z,Arizona State Sun Devils,Oklahoma State Cowboys,betrivers,Oklahoma State Cowboys,-3.0,-105
+2026-11-22T01:58:18Z,ecfec2fe1db57f88e603f9947add1e26,2026-11-22T03:15:00Z,Arizona State Sun Devils,Oklahoma State Cowboys,bovada,Arizona State Sun Devils,2.5,-105
+2026-11-22T01:58:18Z,ecfec2fe1db57f88e603f9947add1e26,2026-11-22T03:15:00Z,Arizona State Sun Devils,Oklahoma State Cowboys,bovada,Oklahoma State Cowboys,-2.5,-115
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,betonlineag,Hawaii Rainbow Warriors,7.0,-116
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,betonlineag,Nevada Wolf Pack,-7.0,-104
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,lowvig,Hawaii Rainbow Warriors,7.0,-112
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,lowvig,Nevada Wolf Pack,-7.0,100
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,betmgm,Hawaii Rainbow Warriors,7.0,-108
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,betrivers,Hawaii Rainbow Warriors,7.0,-109
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,betrivers,Nevada Wolf Pack,-7.0,-114
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,bovada,Hawaii Rainbow Warriors,7.0,-105
+2026-11-22T01:58:18Z,430ea047c8a027987881d51f810a6cf8,2026-11-22T03:30:00Z,Nevada Wolf Pack,Hawaii Rainbow Warriors,bovada,Nevada Wolf Pack,-7.0,-115
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,draftkings,Oregon State Beavers,-7.0,-105
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,draftkings,Utah State Aggies,7.0,-115
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betonlineag,Oregon State Beavers,-6.5,-116
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betonlineag,Utah State Aggies,6.5,-104
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,lowvig,Oregon State Beavers,-6.5,-112
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,lowvig,Utah State Aggies,6.5,100
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betmgm,Oregon State Beavers,-7.0,-108
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betmgm,Utah State Aggies,7.0,-110
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betrivers,Oregon State Beavers,-7.0,-112
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betrivers,Utah State Aggies,7.0,-110
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betus,Oregon State Beavers,-6.5,-110
+2026-11-22T01:58:18Z,6e36f5c3c55edcb31749b0de4a146d14,2026-11-22T03:30:00Z,Oregon State Beavers,Utah State Aggies,betus,Utah State Aggies,6.5,-110
