@@ -1,14 +1,32 @@
 # CFB Spread Movement
 
-_Last updated: 2026-11-23 17:22 UTC_  
-_56919 line snapshots recorded so far._
+_Last updated: 2026-11-24 03:47 UTC_  
+_58153 line snapshots recorded so far._
 
 ## Biggest moves (opening line -> latest)
 
 | Move | Matchup | Book | Team | Open | Now |
 |-----:|---------|------|------|-----:|----:|
+| 9.0 | Oregon State Beavers @ Fresno State Bulldogs | mybookieag | Oregon State Beavers | -6.0 | +3.0 |
+| 9.0 | Oregon State Beavers @ Fresno State Bulldogs | mybookieag | Fresno State Bulldogs | +6.0 | -3.0 |
+| 9.0 | Oregon State Beavers @ Fresno State Bulldogs | betus | Oregon State Beavers | -6.0 | +3.0 |
+| 9.0 | Oregon State Beavers @ Fresno State Bulldogs | betus | Fresno State Bulldogs | +6.0 | -3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | lowvig | Oregon State Beavers | -5.5 | +3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | lowvig | Fresno State Bulldogs | +5.5 | -3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | draftkings | Oregon State Beavers | -5.5 | +3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | draftkings | Fresno State Bulldogs | +5.5 | -3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | bovada | Oregon State Beavers | -5.5 | +3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | bovada | Fresno State Bulldogs | +5.5 | -3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | betrivers | Oregon State Beavers | -5.5 | +3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | betrivers | Fresno State Bulldogs | +5.5 | -3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | betonlineag | Oregon State Beavers | -5.5 | +3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | betonlineag | Fresno State Bulldogs | +5.5 | -3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | betmgm | Oregon State Beavers | -5.5 | +3.0 |
+| 8.5 | Oregon State Beavers @ Fresno State Bulldogs | betmgm | Fresno State Bulldogs | +5.5 | -3.0 |
 | 8.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Tennessee Tech Golden Eagles | +37.5 | +29.5 |
 | 8.0 | Tennessee Tech Golden Eagles @ Mississippi State Bulldogs | fanduel | Mississippi State Bulldogs | -37.5 | -29.5 |
+| 8.0 | Oregon State Beavers @ Fresno State Bulldogs | fanduel | Oregon State Beavers | -5.5 | +2.5 |
+| 8.0 | Oregon State Beavers @ Fresno State Bulldogs | fanduel | Fresno State Bulldogs | +5.5 | -2.5 |
 | 6.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Oregon State Beavers | +10.5 | +17.0 |
 | 6.5 | Oregon State Beavers @ Boise State Broncos | betrivers | Boise State Broncos | -10.5 | -17.0 |
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | fanduel | Texas State Bobcats | -4.5 | -10.5 |
@@ -19,21 +37,3 @@ _56919 line snapshots recorded so far._
 | 6.0 | Texas State Bobcats @ San Diego State Aztecs | betmgm | San Diego State Aztecs | +4.0 | +10.0 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Southern Illinois Salukis | +41.5 | +35.5 |
 | 6.0 | Southern Illinois Salukis @ Illinois Fighting Illini | draftkings | Illinois Fighting Illini | -41.5 | -35.5 |
-| 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | North Carolina Central Eagles | +31.5 | +37.5 |
-| 6.0 | North Carolina Central Eagles @ East Carolina Pirates | fanduel | East Carolina Pirates | -31.5 | -37.5 |
-| 6.0 | McNeese State Cowboys @ LSU Tigers | fanduel | McNeese State Cowboys | +48.5 | +54.5 |
-| 6.0 | McNeese State Cowboys @ LSU Tigers | fanduel | LSU Tigers | -48.5 | -54.5 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | mybookieag | Texas State Bobcats | -4.5 | -10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | mybookieag | San Diego State Aztecs | +4.5 | +10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | lowvig | Texas State Bobcats | -4.5 | -10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | lowvig | San Diego State Aztecs | +4.5 | +10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | betus | Texas State Bobcats | -4.5 | -10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | betus | San Diego State Aztecs | +4.5 | +10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | betrivers | Texas State Bobcats | -4.0 | -9.5 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | betrivers | San Diego State Aztecs | +4.0 | +9.5 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | betonlineag | Texas State Bobcats | -4.5 | -10.0 |
-| 5.5 | Texas State Bobcats @ San Diego State Aztecs | betonlineag | San Diego State Aztecs | +4.5 | +10.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | mybookieag | Kansas State Wildcats | -2.5 | +3.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | mybookieag | Colorado Buffaloes | +2.5 | -3.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Kansas State Wildcats | -2.5 | +3.0 |
-| 5.5 | Kansas State Wildcats @ Colorado Buffaloes | draftkings | Colorado Buffaloes | +2.5 | -3.0 |
